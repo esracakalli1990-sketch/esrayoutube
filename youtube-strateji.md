@@ -1,7 +1,7 @@
 # YouTube Kanal Stratejisi: Sıfırdan Para Kazanma Eşiğine
 
-Tarih: Ekim 2026
-Girdi verileri (senin verdiğin): Türkçe pazar · yüzsüz · haftada 10–20 saat · telefon + mikrofon · temel kurgu bilgisi · küçük aylık bütçe · niş belirlenmemiş.
+Tarih: Ekim 2026 · Sürüm 2 (hızlandırılmış plan)
+Girdi verileri (senin verdiğin): Türkçe pazar · yüzsüz · **haftada 35–40 saat** · telefon + mikrofon · temel kurgu bilgisi · küçük aylık bütçe · niş belirlenmemiş.
 
 Bu belge seni motive etmek için değil, karar vermen için yazıldı. Bir şey kötü görünüyorsa kötü olduğu için öyle yazıldı.
 
@@ -13,7 +13,7 @@ Bu belge seni motive etmek için değil, karar vermen için yazıldı. Bir şey 
 2. **Türkçe pazarda reklam geliri düşüktür.** Türk blog kaynaklarının verdiği RPM aralığı 1.000 izlenme başına yaklaşık 20–100 TL, finans/teknoloji/iş nişlerinde daha yüksek. Bu rakamlar doğrulanmamış tahminlerdir; gerçek RPM'ini ancak para kazanma açıldıktan sonra görürsün. Shorts için 1.000 izlenme başına birkaç TL'yi geçmesi beklenmemeli.
 3. **Örnek hesap:** Para kazanmaya geçmiş, ayda 50.000 uzun video izlenmesi alan bir kanal, 40–100 TL RPM ile ayda **2.000–5.000 TL** kazanır. Yani ilk 1–2 yıl içinde AdSense bir maaş değildir. Asıl gelir reklam dışı kaynaklardan gelecek (bkz. Bölüm 10).
 4. **Yüzsüz + yapay zekâ sesi = yüksek risk.** YouTube, Temmuz 2025'te "tekrarlayan içerik" politikasını "özgün olmayan içerik" (inauthentic content) olarak yeniden adlandırdı. Şablonla seri üretilmiş, aynı anlatımın küçük varyasyonları olan, özgün katkı içermeyen videolar para kazanamaz. Yüzsüz kanallar bu incelemeye en çok takılan gruptur. **Bu planda yapay zekâ seslendirmesi yok; kendi sesini kullanacaksın.**
-5. **Zaman çizelgesi:** Haftada 1 uzun video ile para kazanma eşiğine ulaşmak gerçekçi senaryoda 12–24 ay sürer. Bir videonun arama sonuçlarında tutması bunu kısaltabilir; buna güvenerek plan yapma.
+5. **Zaman çizelgesi:** Haftada 3 uzun video ile para kazanma eşiğine ulaşmak, iyi seçilmiş bir nişte **6–9 ay** sürebilir; bu mümkün bir sonuç, garanti değil. Yanlış nişte tempo ne olursa olsun 12 ayı geçer veya hiç olmaz. "3 ayda para kazanma" iddiaları çoğunlukla yapay zekâ araçları satan sitelerden geliyor.
 
 ---
 
@@ -43,7 +43,7 @@ Bu belge seni motive etmek için değil, karar vermen için yazıldı. Bir şey 
 |---|---|---|
 | Dil | Türkçe | Rekabet İngilizceye göre düşük, RPM de düşük. Gelir için reklam dışı kanal şart. |
 | Kamera | Yüzsüz | Güven inşası zor; sesin, anlatım kalitesi ve özgün örneklerin yüzün yerini tutmak zorunda. "Bilgi göster" nişleri uygun, "kişilik" nişleri uygun değil. |
-| Süre | 10–20 saat/hafta | Haftada 1 kaliteli uzun video + 3 Shorts. Fazlası kaliteyi düşürür. |
+| Süre | 35–40 saat/hafta | İlk 4 hafta: haftada 2 uzun video + 5 Shorts (öğrenme). Sonra: haftada 3 uzun video + 7 Shorts. Bu, yarı zamanlı bir iş yükü; tükenmişlik ciddi bir risk. |
 | Ekipman | Telefon + mikrofon | Ses tarafı yeterli. **Bilgisayar olup olmadığı belirtilmedi — bu, niş seçimini doğrudan belirliyor (bkz. Bölüm 3).** |
 | Beceri | Temel kurgu | Ekran kaydı eğitimleri için yeterli. Belgesel/animasyon gibi ağır kurgu isteyen formatlar için yetersiz. |
 | Bütçe | Küçük | Ücretsiz araçlarla başlanacak. Ücretli araç ancak darboğaz kanıtlanırsa alınır. |
@@ -67,6 +67,8 @@ Bu belge seni motive etmek için değil, karar vermen için yazıldı. Bir şey 
 | Derleme / tepki videoları | 1 | 2 | 5 | 4 | 1 | 1 | 14 | Elendi: yeniden kullanılan içerik, para kazanamaz |
 
 ### Önerilen niş ve şartları
+
+> **Güncelleme (Sürüm 2):** Niş kararı, `nis-analizi/` aracıyla toplanan gerçek YouTube verisine göre verilecek. Aşağıdaki öneri, veri gelene kadar geçerli olan **ilk hipotezdir**; veri başka bir nişi gösterirse o niş seçilir. Bölüm 4–8'deki yöntemler nişten bağımsız olarak geçerlidir.
 
 **Ofis çalışanları için Excel + yapay zekâ ile pratik iş otomasyonu.**
 
@@ -187,10 +189,10 @@ Bu hipotezler doğrulanmazsa konumlandırmayı değiştir. Varsayımla değil ve
 ## 9. Paylaşım ve büyüme sistemi
 
 ### Yayın takvimi
-- **Uzun video:** Haftada 1, sabit gün ve saat. Öneri: Salı 19:00. (Arama trafiğinde yayın saati az önemlidir; asıl önemi senin disiplinin içindir.)
-- **Shorts:** Pazartesi, Çarşamba, Cuma.
-- **Tampon:** Kanalı açmadan önce **2 video hazır** olsun. Bir hafta hastalanınca takvim çökmemeli.
-- Tutarlılık > sıklık. Haftada 2 videoya çıkıp 2 ay sonra bırakmak, 12 ay boyunca haftada 1'den kötüdür.
+- **Uzun video:** Hafta 1–4'te haftada 2 (Salı, Cuma); Hafta 5'ten itibaren haftada 3 (Salı, Perşembe, Cumartesi), saat 19:00. (Arama trafiğinde yayın saati az önemlidir; sabit takvim senin disiplinin içindir.)
+- **Shorts:** Hafta 1–4'te haftada 5, sonra her gün 1.
+- **Tampon:** Kanalı açmadan önce **3 video hazır** olsun. Bir hafta hastalanınca takvim çökmemeli.
+- Tutarlılık > sıklık. Tempoyu ancak kalite sabitken artır. Haftada 3 kötü video, haftada 2 iyi videodan daha az büyütür.
 
 ### Büyüme motoru
 1. **Arama (ana motor):** Her video bir aranan ifadeyi hedefler. Anahtar kelime araştırma süreci:
@@ -247,76 +249,91 @@ Bu hipotezler doğrulanmazsa konumlandırmayı değiştir. Varsayımla değil ve
 
 ---
 
-## 12. KPI'lar ve kontrol noktaları
+## 12. KPI'lar ve kontrol noktaları (hızlandırılmış)
 
-Bunlar hedef değil, **sağlık işaretleri**. Bu değerlerin altında kalmak başarısızlık değil ama sorgulama sebebidir.
+Bunlar hedef değil, **sağlık işaretleri**. Hızlı planın asıl avantajı, yanlış yolda olduğunu 12 ay yerine 90 günde anlamaktır.
 
-| Kontrol noktası | Yayınlanmış uzun video | Sağlıklı işaret | Alarm işareti |
+| Kontrol noktası | Yayınlanmış uzun video (yaklaşık) | Sağlıklı işaret | Alarm işareti → yapılacak |
 |---|---|---|---|
-| Ay 1 | 4 | Videolar arama sonuçlarında gösterim almaya başladı | Hiç arama trafiği yok → başlık/anahtar kelime sorunu |
-| Ay 3 | 13 | Aylık gösterimler her ay artıyor; en az 1–2 video diğerlerinden belirgin şekilde iyi | Tüm videolar aynı düşük seviyede |
-| Ay 6 | 26 | Aylık izlenme saati ~250+ ve artıyor; abone sayısı yüzlerle ifade ediliyor | Bölüm 9'daki Ay 6 kuralı → konumlandırmayı değiştir |
-| Ay 12 | 50+ | 500 abone / 3.000 saat yakın veya geçildi | 1.000 saatin altı → strateji başarısız; yeniden tasarla |
+| Gün 30 | 8 | Videolar arama gösterimi alıyor; en az 1 video 500+ izlenme | Tüm videolar 100 izlenmenin altında ve gösterimler artmıyor → başlık/anahtar kelime/küçük resim sorunu; paketlemeyi değiştir |
+| Gün 60 | 20 | Son 28 günde izlenme saati 150+ ve artıyor; 2–3 video diğerlerinden belirgin şekilde iyi | Hiçbir video öne çıkmıyor → nişin içinde sütun değiştir; iyi giden tek konu varsa ona yüklen |
+| **Gün 90** | **32** | Toplam izlenme saati 600–1.000+; 150–400 abone | **200 saatin altı → niş değiştir.** Veri analizinde ikinci sıradaki nişe geç. 3 ay kaybetmek, 12 ay kaybetmekten iyidir |
+| Ay 6 | ~70 | Alt seviye eşiği (500 abone / 3.000 saat) yakın veya geçildi | 2.000 saatin altı → tempo değil strateji sorunu; baştan değerlendir |
+| Ay 9 | ~110 | Tam seviye eşiği (1.000 abone / 4.000 saat) | — |
 
-Ay 12'de tam eşiğe ulaşmamış olmak normaldir. Ay 12'de **yön** yoksa normal değildir.
-
----
-
-## 13. Başlangıç fazı (Hafta -2 ve Hafta -1)
-
-**Hafta -2 (15 saat)**
-- [ ] Şartları doğrula: bilgisayar var mı, Excel seviyem ne? (Yoksa yedek nişe geç.)
-- [ ] Rakip denetimi (Bölüm 5) — 6 saat
-- [ ] 100 satırlık konu/anahtar kelime listesi — 4 saat
-- [ ] OBS, DaVinci Resolve/CapCut, Canva kurulumu ve test kaydı; ses ayarı — 3 saat
-- [ ] Kanal adı, logo, banner, kanal açıklaması — 2 saat
-
-**Hafta -1 (15 saat)**
-- [ ] Google hesabında 2 adımlı doğrulama; kanal oluşturma; "çocuklara yönelik değil" ayarı; kanal anahtar kelimeleri; varsayılan açıklama şablonu
-- [ ] AdSense vergi bilgisinin hazırlığı (hesap açılınca hemen doldurmak üzere)
-- [ ] Video 1 ve Video 2'yi tamamen üret (tampon). İkisi de A sütunundan.
-- [ ] Küçük resim şablonunu oluştur
-- [ ] Shorts şablonunu oluştur (dikey 9:16, büyük yazı)
+**Hesap (Ay 6 için):** 4.000 saat ≈ 4 dakikalık ortalama izlenme ile 60.000 uzun video izlenmesi. ~70 videoya bölününce video başına ortalama ~860 izlenme. İyi bir nişte bu ulaşılabilir; zayıf bir nişte haftada 10 video yapsan da ulaşılamaz. **Bu yüzden hızın asıl belirleyicisi niş seçimi, ikincisi paketleme. Saat sayısı üçüncü sırada.**
 
 ---
 
-## 14. Haftalık çalışma takvimi (~15 saat)
+## 13. Hafta 0: Kurulum haftası (~40 saat)
 
-Mantık: **Bir hafta önceden üretim.** Bu hafta Salı yayınlanan video, geçen hafta üretildi. Bu hafta üretilen video gelecek Salı yayınlanır.
+| Gün | Süre | Görev |
+|---|---|---|
+| 1 | 7 sa | • YouTube API anahtarını al; niş analizini çalıştır (`nis-analizi/README.md`) — 1 sa <br>• Raporu oku, nişi seç — 2 sa <br>• Seçilen nişte rakip denetimi (Bölüm 5) — 4 sa |
+| 2 | 7 sa | • 150 satırlık konu ve anahtar kelime bankası (otomatik tamamlama, rakiplerin öne çıkan videoları, yorumlardaki sorular) — 4 sa <br>• Kanal adı, logo, banner, kanal açıklaması — 3 sa |
+| 3 | 7 sa | • OBS, DaVinci Resolve/CapCut, Canva kurulumu; ses testi — 2 sa <br>• **Yayınlanmayacak bir deneme videosu** üret, baştan sona. Darboğazları gör — 5 sa |
+| 4 | 7 sa | • Video 1 ve 2: senaryo + kayıt |
+| 5 | 7 sa | • Video 1 ve 2: kurgu, küçük resim, başlık, açıklama <br>• Video 3: senaryo |
+| 6 | 5 sa | • Video 3: kayıt + kurgu (tampon) <br>• Kanal ayarları, 2 adımlı doğrulama, varsayılan açıklama şablonu, oynatma listeleri <br>• 5 Shorts hazırla |
+| 7 | 0 | Dinlenme |
+
+**Ön koşul:** Bilgisayar. Haftada 3 uzun videonun kurgusunu telefonda yapmak gerçekçi değil. Bilgisayar yoksa bu plan uygulanamaz; ya bilgisayar edin ya da tempoyu haftada 1–2 videoya düşür.
+
+---
+
+## 14. Haftalık çalışma takvimi (~37 saat)
+
+### Üretim mantığı: toplu üretim, bir hafta önden
+Bu hafta yayınlanan 3 video, geçen hafta üretildi. Bu hafta üretilen 3 video, gelecek hafta yayınlanır. Her işi 3 video için toplu yapmak (önce 3 senaryo, sonra 3 kayıt, sonra 3 kurgu), işler arasında geçiş kaybını azaltır.
+
+**Uzun video başına süre bütçesi (~10 saat):** araştırma 1,5 · senaryo 2 · kayıt 1,5 · kurgu 3,5 · küçük resim + başlık + açıklama + yükleme 1,5.
+
+### Hafta 5 ve sonrası (tam tempo: 3 uzun video + 7 Shorts)
 
 | Gün | Süre | Görev | Çıktı |
 |---|---|---|---|
-| **Pazartesi** | 2 sa | • 30 dk: YouTube Studio analizi (son 28 gün; geçen haftanın videosunun tutma grafiği; en büyük düşüş noktası notu) <br>• 1,5 sa: Gelecek haftanın videosu için konu seçimi, anahtar kelime, başlık ve küçük resim konsepti <br>• Shorts #1 yayınla (hazır) | Analiz notu (3 madde), video brifingi |
-| **Salı** | 2,5 sa | • Senaryo yazımı: kanca, sorun, adımlar, yaygın hata, kapanış <br>• Örnek Excel dosyasını hazırla (gerçekçi veri) <br>• **19:00: Haftanın uzun videosu yayında** (geçen hafta üretildi) | Senaryo + çalışma dosyası |
-| **Çarşamba** | 2,5 sa | • Ekran kaydı + ses kaydı (gerekirse ayrı ayrı) <br>• Shorts #2 yayınla | Ham kayıt |
-| **Perşembe** | 3 sa | • Kurgu: kesme, yakınlaştırma, vurgulama, ses temizleme, bitiş ekranı | Kurgulanmış video |
-| **Cuma** | 1,5 sa | • Küçük resim (+1 alternatif test için) <br>• Başlık, açıklama, bölümler, oynatma listesi, altyazı kontrolü <br>• İndirilebilir dosyayı yükle, linki ekle <br>• Videoyu gelecek Salı 19:00'a planla <br>• Shorts #3 yayınla | Yayına hazır, planlanmış video |
-| **Cumartesi** | 2,5 sa | • Bu haftanın videosundan 3 Shorts çıkar (gelecek hafta için) <br>• 1 LinkedIn paylaşımı hazırla ve yayınla | 3 Shorts, 1 LinkedIn gönderisi |
-| **Pazar** | 1 sa | • Tüm yorumlara cevap (ilk aylarda her yoruma) <br>• Yorumlardaki soruları konu listesine ekle <br>• Haftalık rapor: izlenme, izlenme saati, abone, en iyi/kötü video, 1 değişiklik kararı | Güncellenmiş konu listesi, haftalık rapor |
-| **Toplam** | **15 sa** | | 1 uzun video + 3 Shorts + 1 LinkedIn |
+| **Pazartesi** | 7 sa | • 1 sa: Analiz (son 7 ve 28 gün; geçen haftanın 3 videosunun tutma grafiği; en büyük düşüş noktaları) <br>• 1,5 sa: Bu haftanın 3 videosu için konu, anahtar kelime, başlık ve küçük resim konsepti <br>• 4,5 sa: Senaryo A ve B (+ örnek dosyalar) | Analiz notu, 3 brif, 2 senaryo |
+| **Salı** | 7 sa | • 2 sa: Senaryo C <br>• 4,5 sa: Kayıt A, B, C <br>• 0,5 sa: Yorumlar <br>• **19:00 Uzun video yayında** | 3 ham kayıt |
+| **Çarşamba** | 7 sa | • Kurgu A (3,5 sa) <br>• Kurgu B (3,5 sa) | 2 kurgulanmış video |
+| **Perşembe** | 7 sa | • Kurgu C (3,5 sa) <br>• 3 küçük resim (+ her biri için 1 alternatif), başlık, açıklama, bölümler, altyazı düzeltme, dosya linkleri (3,5 sa) <br>• **19:00 Uzun video yayında** | 3 yayına hazır video |
+| **Cuma** | 6 sa | • 3,5 sa: Bu haftanın videolarından 7 Shorts <br>• 0,5 sa: Gelecek haftanın 3 videosunu ve 7 Shorts'u planla <br>• 1 sa: Dağıtım (LinkedIn/forumlarda gerçek sorulara cevap) <br>• 1 sa: Yorumlar, topluluk gönderisi | 7 Shorts, planlanmış takvim |
+| **Cumartesi** | 3 sa | • 1,5 sa: Haftalık değerlendirme. En iyi ve en kötü video, ve **neden**. Bir sonraki hafta için tek bir değişiklik kararı. <br>• 1 sa: Performansı en düşük eski videonun başlığını/küçük resmini değiştir <br>• 0,5 sa: Konu bankasını güncelle <br>• **19:00 Uzun video yayında** | Haftalık rapor, 1 karar |
+| **Pazar** | 0 | **Dinlenme. Pazarlık konusu değil.** | — |
+| **Toplam** | **37 sa** | | 3 uzun video + 7 Shorts |
 
-### Ayda bir (4. haftanın Pazar günü, +1 saat)
-- Aylık rapor: Bölüm 12'deki kontrol noktalarıyla karşılaştır.
-- Sütun dağılımı kararı (hangi sütun çalışıyor?).
-- En iyi performans gösteren videonun "devam" veya "ileri seviye" videosunu planla.
-- En kötü 2 videonun başlık/küçük resmini değiştir.
+### Hafta 1–4 (öğrenme temposu: 2 uzun video + 5 Shorts)
+Aynı takvim, ama üçüncü video yerine:
+- Her videoyu yayından 48 saat sonra incele: tutma grafiği, gösterim tıklama oranı, trafik kaynakları.
+- Kurgu hızını ölç. Bir uzun video 10 saatin altına inmeden haftada 3'e geçme.
+- Artan ~8 saatin 4'ünü konu bankasına ve paketleme denemelerine, 4'ünü kurgu becerisine (kısayollar, şablonlar, hazır geçişler) ver.
 
-### Haftada 10 saatin varsa
-Shorts'u haftada 1'e indir, LinkedIn'i 2 haftada bire indir. **Uzun video sayısını düşürme ve kalitesinden ödün verme.**
+**Hafta 5'te 3 videoya geçme şartı:** Son 2 haftada her iki video da zamanında çıktı **ve** ortalama izlenme yüzdesi düşmedi. Şart sağlanmazsa 2 videoda kal. Tempo kaliteyi düşürüyorsa hız değil kayıptır.
 
-### Haftada 20 saatin varsa
-Ekstra 5 saati ikinci video için **değil**, (1) tutma analizini derinleştirmeye, (2) şablon ürününü geliştirmeye, (3) freelance/kurumsal iş için portföy sayfası hazırlamaya kullan. İkinci haftalık videoya, ilk 3 ay boyunca her hafta zamanında yayın yapabildiğini kanıtladıktan sonra geç.
+### Her 6. hafta: bakım haftası
+Sadece 2 uzun video üret. Artan zamanla tamponu yeniden 3 videoya çıkar, en çok izlenen 5 videonun devam videolarını planla ve 30 günlük bir değerlendirme yap. Bu hafta tükenmişliği önlemek için var; atlama.
+
+### Ayda bir (bakım haftası veya ayın son Cumartesisi, +2 saat)
+- Bölüm 12'deki kontrol noktalarıyla karşılaştır.
+- Sütun dağılımı kararı: Hangi sütun izlenme saati getiriyor?
+- En iyi videonun 2 devam videosunu konu bankasının en üstüne koy.
+- Gün 90'da: niş değiştirme kararını Bölüm 12'deki kurala göre ver. Duyguyla değil.
+
+### Tükenmişlik kuralları
+- Haftada 40 saati geçme. Fazla saat 6–8 hafta sonra kaliteyi düşürür.
+- 2 hafta üst üste takvim kaçarsa tempoyu 2 videoya düşür. Bırakma.
+- Sonuçlara günde bir kereden fazla bakma. Haftalık analiz yeterli; saatlik bakmak karar kalitesini düşürür.
 
 ---
 
 ## 15. Bu planın başarısız olmasının en olası sebepleri
 
-1. 8–12. haftada sonuç görmeyip bırakmak.
-2. Uzmanlık olmadan eğitim videosu çekmek.
-3. Zaman kazanmak için yapay zekâ seslendirmesine veya şablon üretime geçmek.
-4. Analitiği okumadan aynı hataları tekrarlamak.
-5. Geniş, rekabetçi aramaları hedeflemek (uzun kuyruk yerine).
-6. Gelir beklentisini AdSense'e bağlamak.
+1. 8–12. haftada sonuç görmeyip bırakmak; ya da tersine, Gün 90'daki niş değiştirme kuralına uymayıp çalışmayan nişte inat etmek.
+2. Hızlı tempoda tükenip tamamen bırakmak (Bölüm 14'teki tükenmişlik kuralları).
+3. Uzmanlık olmadan eğitim videosu çekmek.
+4. Zaman kazanmak için yapay zekâ seslendirmesine veya şablon üretime geçmek.
+5. Analitiği okumadan aynı hataları tekrarlamak.
+6. Geniş, rekabetçi aramaları hedeflemek (uzun kuyruk yerine).
+7. Gelir beklentisini AdSense'e bağlamak.
 
 ---
 
