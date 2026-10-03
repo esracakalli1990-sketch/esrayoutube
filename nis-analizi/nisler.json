@@ -1,0 +1,60 @@
+{
+  "_aciklama": "Her niş için aranacak anahtar kelimeler ve elle verilen uygunluk puanları (1-5, 5 = en iyi). Uygunluk puanları tahmindir; veri puanı YouTube'dan gelir. rpm: Türkiye'de reklamveren ilgisi tahmini. yuzsuz: yüzsüz üretime uygunluk. uretim: haftada çok video çıkarma kolaylığı. risk: politika/hukuk/telif riski (5 = düşük risk). uzmanlik: önceden uzmanlık gerekmeme (5 = gerekmez).",
+  "nisler": {
+    "ofis_excel_ai": {
+      "ad": "Ofis / Excel + yapay zekâ",
+      "uygunluk": {"rpm": 4, "yuzsuz": 5, "uretim": 4, "risk": 5, "uzmanlik": 2},
+      "kelimeler": ["excel formülleri", "excel düşeyara", "excel pivot tablo", "excel makro", "excel tablo oluşturma", "chatgpt ile excel", "excel eğitimi", "excel tarih formülü"]
+    },
+    "yapay_zeka_araclari": {
+      "ad": "Yapay zekâ araçları rehberi",
+      "uygunluk": {"rpm": 4, "yuzsuz": 5, "uretim": 4, "risk": 4, "uzmanlik": 4},
+      "kelimeler": ["chatgpt nasıl kullanılır", "yapay zeka ile video yapma", "yapay zeka ile görsel oluşturma", "gemini nasıl kullanılır", "yapay zeka uygulamaları", "chatgpt ile sunum hazırlama", "yapay zeka ile ödev", "yapay zeka ile müzik yapma"]
+    },
+    "devlet_haklar": {
+      "ad": "Devlet işlemleri ve çalışan hakları (SGK, emeklilik, kira, e-Devlet)",
+      "uygunluk": {"rpm": 4, "yuzsuz": 5, "uretim": 4, "risk": 3, "uzmanlik": 4},
+      "kelimeler": ["sgk hizmet dökümü", "emeklilik hesaplama", "kıdem tazminatı hesaplama", "kira artış oranı", "işsizlik maaşı başvurusu", "askerlik borçlanması", "e-devlet şifre alma", "vergi iadesi nasıl alınır"]
+    },
+    "kisisel_finans": {
+      "ad": "Kişisel finans ve birikim",
+      "uygunluk": {"rpm": 5, "yuzsuz": 3, "uretim": 4, "risk": 2, "uzmanlik": 3},
+      "kelimeler": ["altın mı dolar mı", "borsa nasıl oynanır", "kredi kartı borcu", "birikim nasıl yapılır", "fon yatırımı", "enflasyondan korunma", "konut kredisi hesaplama", "temettü hisseleri"]
+    },
+    "tarih_gizem": {
+      "ad": "Tarih ve gizem anlatımı",
+      "uygunluk": {"rpm": 2, "yuzsuz": 5, "uretim": 2, "risk": 3, "uzmanlik": 4},
+      "kelimeler": ["osmanlı tarihi", "ikinci dünya savaşı belgesel", "antik medeniyetler", "selçuklu tarihi", "çözülemeyen gizemler", "kayıp şehirler", "tarih belgeseli türkçe", "tarihin en büyük savaşları"]
+    },
+    "bilim_ilginc": {
+      "ad": "Bilim ve ilginç bilgiler",
+      "uygunluk": {"rpm": 3, "yuzsuz": 5, "uretim": 3, "risk": 4, "uzmanlik": 3},
+      "kelimeler": ["evren nasıl oluştu", "kara delik nedir", "insan beyni", "bilimsel gerçekler", "uzay belgeseli", "kuantum fiziği nedir", "evrim nedir", "zaman yolculuğu mümkün mü"]
+    },
+    "telefon_teknoloji": {
+      "ad": "Telefon ve uygulama ipuçları",
+      "uygunluk": {"rpm": 3, "yuzsuz": 5, "uretim": 5, "risk": 5, "uzmanlik": 4},
+      "kelimeler": ["telefon şarj sorunu", "android gizli özellikler", "iphone ipuçları", "telefon hızlandırma", "whatsapp gizli özellikler", "telefon depolama dolu", "instagram ayarları", "en iyi telefon"]
+    },
+    "sinav_hazirlik": {
+      "ad": "Sınav hazırlık (KPSS / ALES / YDS)",
+      "uygunluk": {"rpm": 3, "yuzsuz": 5, "uretim": 4, "risk": 5, "uzmanlik": 1},
+      "kelimeler": ["kpss tarih", "kpss coğrafya", "kpss vatandaşlık", "ales sayısal", "yds kelime", "kpss güncel bilgiler", "lgs matematik", "yks matematik konu anlatımı"]
+    },
+    "otomobil": {
+      "ad": "Otomobil alım ve bakım rehberi",
+      "uygunluk": {"rpm": 4, "yuzsuz": 3, "uretim": 3, "risk": 4, "uzmanlik": 2},
+      "kelimeler": ["ikinci el araba alırken", "en ucuz sıfır araba", "araba bakımı", "elektrikli araba türkiye", "araç muayene", "motor yağı değişimi", "otomatik vites araba önerisi", "lastik seçimi"]
+    },
+    "yemek_pratik": {
+      "ad": "Pratik ve ekonomik yemek",
+      "uygunluk": {"rpm": 3, "yuzsuz": 4, "uretim": 2, "risk": 5, "uzmanlik": 3},
+      "kelimeler": ["pratik yemek tarifleri", "kolay tatlı tarifi", "airfryer tarifleri", "diyet yemek tarifleri", "ekmek tarifi", "kahvaltılık tarifler", "ekonomik yemek tarifleri", "meal prep"]
+    },
+    "kariyer_is": {
+      "ad": "Kariyer, iş bulma ve mülakat",
+      "uygunluk": {"rpm": 4, "yuzsuz": 4, "uretim": 4, "risk": 5, "uzmanlik": 3},
+      "kelimeler": ["iş görüşmesi soruları", "cv nasıl hazırlanır", "linkedin profil", "evden çalışma işleri", "maaş pazarlığı", "yurtdışında çalışmak", "freelance iş nasıl bulunur", "mülakat soruları ve cevapları"]
+    }
+  }
+}
