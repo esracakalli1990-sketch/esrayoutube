@@ -61,7 +61,9 @@ def api_cagir(uc, params, anahtar, cevrimdisi=False):
         return json.loads(dosya.read_text(encoding="utf-8"))
     if cevrimdisi:
         raise FileNotFoundError(f"Önbellekte yok: {uc} {params}")
-    url = API + uc + "?" + urllib.parse.urlencode({**params, "key": anahtar})
+    # Anahtar yoksa istek anahtarsız gider; bulut ortamındaki "ağ gizli anahtarı"
+    # proxy tarafından X-Goog-Api-Key başlığı olarak eklenir.
+    url = API + uc + "?" + urllib.parse.urlencode({**params, **({"key": anahtar} if anahtar else {})})
     for deneme in range(4):
         try:
             with urllib.request.urlopen(url, timeout=30) as yanit:
@@ -69,6 +71,10 @@ def api_cagir(uc, params, anahtar, cevrimdisi=False):
             break
         except urllib.error.HTTPError as h:
             govde = h.read().decode("utf-8", "replace")
+            if h.code == 403 and "unregistered callers" in govde:
+                raise SystemExit("API anahtarı isteğe eklenmedi. YOUTUBE_API_KEY ortam değişkenini tanımla "
+                                 "veya bulut ortamında www.googleapis.com için X-Goog-Api-Key ağ gizli "
+                                 "anahtarını ekle (README.md).")
             if h.code == 403 and "quota" in govde.lower():
                 raise KotaHatasi("Günlük API kotası doldu. Yarın aynı komutla devam et; "
                                  "tamamlanan aramalar önbellekte.") from h
@@ -330,7 +336,8 @@ def main():
 
     anahtar = os.environ.get("YOUTUBE_API_KEY", "")
     if not anahtar and not a.cevrimdisi:
-        sys.exit("YOUTUBE_API_KEY ortam değişkeni tanımlı değil. README.md'deki adımlara bak.")
+        print("YOUTUBE_API_KEY tanımlı değil; anahtarın ağ gizli anahtarı olarak eklendiği varsayılıyor.",
+              file=sys.stderr)
 
     nis_tanim = json.loads(Path(a.tanim).read_text(encoding="utf-8"))["nisler"]
     secilen = a.nis or list(nis_tanim)

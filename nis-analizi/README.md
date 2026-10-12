@@ -14,7 +14,12 @@
 
 ## 2. Çalıştır
 
-**Seçenek A — Claude çalıştırsın:** Bulut ortamının ayarlarına (oturum başlığındaki ortam menüsü → Edit) `YOUTUBE_API_KEY` adıyla ortam değişkeni olarak ekle ve yeni bir oturum aç. Anahtarı sohbete yapıştırma.
+**Seçenek A — Claude çalıştırsın:** Oturum başlığındaki ortam menüsü → **Ortamı düzenle** → **Ağ gizli anahtarları** → **Gizli anahtar ekle**. Alanları şöyle doldur:
+- Alan adı / host: `www.googleapis.com`
+- Başlık (header): `X-Goog-Api-Key`
+- Değer: API anahtarın
+
+Kaydet ve yeni bir oturum aç. Oturum anahtarı hiç görmez; proxy, isteklere anahtarı kendisi ekler. Ortamında ayrıca "ortam değişkeni" alanı varsa, `YOUTUBE_API_KEY` adıyla oraya eklemek de çalışır. Anahtarı sohbete yapıştırma.
 
 **Seçenek B — kendi bilgisayarında:** Python 3.9 veya üstü yeterli; ek paket gerekmez.
 
