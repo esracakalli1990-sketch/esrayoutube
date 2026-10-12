@@ -332,7 +332,10 @@ def main():
     ap.add_argument("--nis", action="append", help="Sadece bu nişleri analiz et (tekrarlanabilir)")
     ap.add_argument("--cevrimdisi", action="store_true", help="Yalnızca önbellekteki veriyi kullan")
     ap.add_argument("--tanim", default=str(KLASOR / "nisler.json"))
+    ap.add_argument("--cikti", default="sonuclar", help="Sonuçların yazılacağı klasör (varsayılan: sonuclar)")
     a = ap.parse_args()
+    global SONUC
+    SONUC = KLASOR / a.cikti
 
     anahtar = os.environ.get("YOUTUBE_API_KEY", "")
     if not anahtar and not a.cevrimdisi:
