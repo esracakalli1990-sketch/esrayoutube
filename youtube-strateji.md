@@ -2,7 +2,7 @@
 
 Tarih: 12 Ekim 2026 · Sürüm 3 (niş, gerçek YouTube verisiyle seçildi)
 Girdi verileri (senin verdiğin): Türkçe pazar · yüzsüz · **haftada 35–40 saat** · telefon + mikrofon · temel kurgu bilgisi · küçük aylık bütçe.
-**Seçilen niş: KPSS Genel Kültür hazırlığı (tarih, coğrafya, vatandaşlık, güncel bilgiler) — yüzsüz, slayt + ses anlatımı.** Gerekçe Bölüm 3'te. Ön hipotez olan Excel nişi veriyle **çürütüldü**.
+**Seçilen niş: Tarih anlatımı (başlangıç: antik medeniyetler, sonra dar Osmanlı konuları) — yüzsüz, kendi sesinle, arşiv görseli + harita.** Veri KPSS'yi güvenli tavan, tarihi yüksek tavan/yüksek varyans gösterdi; tercih senin, riskleri Bölüm 3'te. Ön hipotez olan Excel nişi veriyle **çürütüldü**. Yedek: KPSS Tarih.
 
 Bu belge seni motive etmek için değil, karar vermen için yazıldı. Bir şey kötü görünüyorsa kötü olduğu için öyle yazıldı.
 
@@ -31,10 +31,9 @@ Bu belge seni motive etmek için değil, karar vermen için yazıldı. Bir şey 
 
 ### Eşiğin matematiği (asıl darboğazı gör)
 
-- 4.000 saat = 240.000 dakika. KPSS konu/tekrar videoları 12–25 dakika. Ortalama izlenme süresi 6 dakika ise **~40.000 uzun video izlenmesi** gerekir (4 dakikada ~60.000).
-- 12 ayda ~100 video yayınlarsan video başına ortalama ~400–600 izlenme gerekir.
-- Sınav hazırlık içeriği, genel eğitim içeriğine göre aboneye daha iyi döner (izleyici bir dizi konuyu sırayla izler, sınava kadar geri gelir), ama kesin oran bilinmiyor. %1 varsayımıyla 40.000–60.000 izlenme ≈ **400–600 abone.**
-- **Sonuç: Muhtemelen izlenme saatinden önce 1.000 aboneye takılacaksın.** Shorts'un bu plandaki görevi para kazanmak değil, abone kazanmaktır.
+- 4.000 saat = 240.000 dakika. Tarih anlatımı 45–60 dakika; ortalama izlenme süresi 15–18 dakika ise **~13.000–16.000 uzun video izlenmesi** yeter. 12 ayda ~50 uzun video için video başına ~270 izlenme demek: saat tarafı kolay.
+- **Darboğaz 1.000 abone.** İzlenmenin aboneye dönüşümü %1–1,5 ise 1.000 abone için **70.000–100.000 toplam izlenme** gerekir (dönüşüm oranı varsayımdır; kendi verinle düzelt).
+- **Sonuç: İzlenme saatinden önce aboneye takılacaksın.** Seri yapısı, B (kısa) videolar ve Shorts abone kazanmak için var; saat zaten gelir.
 
 ---
 
@@ -44,9 +43,9 @@ Bu belge seni motive etmek için değil, karar vermen için yazıldı. Bir şey 
 |---|---|---|
 | Dil | Türkçe | Rekabet İngilizceye göre düşük, RPM de düşük. Gelir için reklam dışı kanal şart. |
 | Kamera | Yüzsüz | Güven inşası zor; sesin, anlatım kalitesi ve özgün örneklerin yüzün yerini tutmak zorunda. "Bilgi göster" nişleri uygun, "kişilik" nişleri uygun değil. |
-| Süre | 35–40 saat/hafta | İlk 4 hafta: haftada 2 uzun video + 5 Shorts (öğrenme). Sonra: haftada 3 uzun video + 7 Shorts. Bu, yarı zamanlı bir iş yükü; tükenmişlik ciddi bir risk. |
-| Ekipman | Telefon + mikrofon | Ses tarafı yeterli. **Bilgisayar olup olmadığı belirtilmedi.** Slayt hazırlama ve haftada 3 videonun kurgusu için bilgisayar fiilen şart (bkz. Bölüm 13). |
-| Beceri | Temel kurgu | Slayt + ses anlatımı için yeterli. Belgesel/animasyon gibi ağır kurgu isteyen formatlar için yetersiz (tarih nişini ikinci sıraya düşüren sebeplerden biri). |
+| Süre | 35–40 saat/hafta | Tarih için tam tempo: haftada 1 uzun (45–60 dk) + 1 kısa (12–18 dk) + 3 Shorts. 45–60 dakikalık anlatı video başına ~25 saat tutar; haftada 3 uzun video mümkün değil. Tükenmişlik ciddi bir risk. |
+| Ekipman | Telefon + mikrofon | Ses tarafı yeterli. **Bilgisayar olup olmadığı belirtilmedi.** Görsel toplama ve 45–60 dakikalık kurgu için bilgisayar fiilen şart (bkz. Bölüm 13). |
+| Beceri | Temel kurgu | Arşiv görseli + harita + ses anlatımı için yeterli. Animasyonlu belgesel gibi ağır kurgu için yetersiz; planda yok. |
 | Bütçe | Küçük | Ücretsiz araçlarla başlanacak. Ücretli araç ancak darboğaz kanıtlanırsa alınır. |
 
 ---
@@ -104,159 +103,166 @@ Senin hedefin 4.000 saat uzun video izlenmesi. Buna göre tek önemli soru: **So
 - **Otomobil: Elendi (yakın aday).** Küçük kanallar gerçekten izleniyor (medyan 7.865, %88'i 1.000+). Ama videolar kısa (7 dk), yüzsüz üretim zor (araç görüntüsü gerekir) ve uzmanlık ister.
 - **Kişisel finans, Yapay zekâ araçları, Bilim:** Orta-zayıf veri; finansta ek olarak SPK yatırım danışmanlığı riski var.
 
-### Seçilen niş: Sınav hazırlık → KPSS Genel Kültür
+### Karar: Tarih anlatımı (senin tercihin; veriyle şartlı)
 
-**Neden veri bunu gösteriyor:**
-1. **En tutarlı sonuç.** Son 2 yılda aramada görünen küçük kanal uzun videolarının **%96'sı 1.000+ izlenme** almış (tüm nişler içinde en yüksek). En zayıf anahtar kelimede bile medyan 4.932. Tarih nişinde bu sayı 452: kazanan ya çok kazanıyor ya hiç.
-2. **Sıralama her yıl yenileniyor.** KPSS anahtar kelimelerinde ilk 50 sonucun 42–49'u son 12 ayda yayınlanmış. Sebep yapısal: içerik her sınav dönemine göre ("2026", "güncel bilgiler", "son tekrar") yeniden üretiliyor. Excel'deki gibi eski videolar sıralamayı kilitlemiyor; her yıl herkes sıfırdan başlıyor.
-3. **Yüzsüz format işe yarıyor, kanıtı var.** *Not Panosu* (1.760 abone, 67 video): "16 Dakikada KPSS Coğrafya Son Tekrarı" 106.000, "KPSS Tarih 12 Dakikada Son Tekrar" 40.000 izlenme. *Kapsül X* (3.280 abone): "Güncel Bilgiler 2026" 80.000. *Emrah Vahap Özkaraca* (4.600 abone, 8 video): "KPSS vatandaşlık genel tekrar 2026" 158.000.
-4. **Senin kaynaklarına uyuyor:** slayt + ses anlatımı temel kurguyla yapılır; 12–25 dakikalık videolar izlenme saati üretir; konu listesi sabit (müfredat), konu bulma sorunu yok.
-5. **Reklam dışı gelir yolu net:** PDF özet notlar, deneme/soru setleri, çalışma programı. Bu kitle bunlar için para ödüyor.
+Sürüm 3'ün ilk yarısında KPSS'yi önermiştim. Sen tarihi seçtin. Veri bunu **savunulabilir** kılıyor: tarih, "4.000 saat için gereken video" metriğinde tüm nişlerin birincisi (aşağıda). Ama senin gerekçenin bir kısmı doğru, bir kısmı yanlış, ve planın geri kalanı bu ayrıma göre yazıldı.
 
-**Neden KPSS Genel Kültür, sınav hazırlığın diğer alt alanları değil:**
-- Tarih, coğrafya, vatandaşlık ve güncel bilgiler **bilgi** dersleri: doğru kaynaktan sistemli çalışarak öğretilebilir seviyeye gelinebilir. Matematik (YKS/LGS/ALES sayısal) gerçek öğretmenlik becerisi ister ve "yks matematik" aramasında son 2 yılda tek bir küçük kanal videosu yok.
-- ALES de güçlü göründü (10 küçük kanal videosu, medyan 43.691), ama oradaki başarılı videoların çoğu **kişisel deneyim** ("ALES'te 98 aldım, kaynaklarım"). Senin böyle bir hikâyen yoksa bu formatı taklit edemezsin.
+**Doğru olan:** Tarih kalıcı içeriktir. Sınav mevsimi yok, yıllık yenileme yok, 2 yıl önceki video hâlâ izlenir. İzleyici bir videoyu 40–80 dakika izlediği için video başına izlenme saati çok yüksek: 44 dakikalık medyan video ve %40 izlenme oranıyla 4.000 saat yaklaşık **13.000–17.000 uzun video izlenmesiyle** dolar. Aynı hedef 17 dakikalık bir KPSS tekrar videosunda yaklaşık 2 kat daha fazla izlenme ister; tarihte her izlenme daha çok saat getirir.
 
-**Bu seçimin zayıf yanları (görmezden gelme):**
-- **Uzmanlık en zayıf halka.** Araçta bu nişin uzmanlık puanı 1/5 (en kötü). Tek bir yanlış tarih, yanlış madde numarası veya eski bilgi yorumlarda hemen yakalanır ve güveni yok eder. Her senaryoyu ÖSYM'nin çıkmış soruları ve resmî kaynaklarla (Anayasa metni, güncel mevzuat) kontrol etmek zorundasın. Bu yüzden Bölüm 14'te araştırma + doğrulama payı 2,5 saate çıkarıldı; bu süreyi kısma.
-- **Mevsimsellik ve veri zamanlaması.** Veri 12 Ekim 2026'da, sınav dönemine yakın bir tarihte toplandı ("son tekrar", "2026" başlıkları bunu gösteriyor). Hız ve tazelik metrikleri bu yüzden şişmiş olabilir. Talep sınav takvimine göre dalgalanır; sınavdan sonraki aylarda izlenme düşer.
-- **Sınav takvimini kendin doğrula.** Hangi KPSS oturumunun (lisans, önlisans, ortaöğretim) hangi yıl ve ayda yapılacağını ÖSYM sınav takviminden kontrol et; bazı oturumlar her yıl yapılmıyor. İçerik takvimin buna göre kurulacak (Bölüm 7).
-- **Büyük oyuncular var.** Ana aramalarda ("kpss tarih", "kpss coğrafya") ilk 50'de son 2 yılda sadece 1–2 küçük kanal var; medyan izlenme 200.000–600.000 olan yerleşik öğretmen ve kurs kanalları sıralamayı tutuyor. Sen ana kelimeyle değil, **uzun kuyruk** ve **format** ile gireceksin ("12 dakikada son tekrar", "en çok karıştırılan 20 bilgi", tek konu derinlemesine).
-- **RPM orta-düşük.** Öğrenci ve iş arayan kitle, beyaz yakalı Excel kitlesinden daha az reklam değeri taşır. AdSense'ten çok ürün satışı belirleyici olacak.
-- **Sonuçlar küçük örneklemden.** 27 video. Bu bir kanıt değil, en güçlü işaret.
+**Yanlış olan: "Tarih hata kabul etmez ama değişmez, o yüzden risk düşük" varsayımı eksik.**
+- Tarih rakam ve isim hatasını affetmez. Yorumlarda uzman ve meraklı izleyici hatayı hemen yazar. KPSS'den farkı, hatanın sınav puanına mal olmaması; güven kaybına mal olması aynı.
+- Tarihte "değişmeyen tek doğru" yok: pek çok olay kaynaklara göre farklı anlatılır (ölüm nedenleri, savaş kayıpları, tarihler). "Tarih bir" değil; hangi kaynağı izlediğin anlatıyı belirler.
+- Osmanlı, Selçuklu ve yakın dönem konularında yorumlar ideolojik tartışmaya döner. Bu hem moderasyon yükü hem de politika (nefret söylemi, şiddet) riski demek.
+- Cevap: kaynak göstermek (akademik/birincil kaynak, açıklamada liste), tartışmalı noktada "kaynaklar ayrışıyor" demek, hatayı sabitlenmiş yorumla düzeltmek. Bunu atlarsan "tarih değişmez" avantajın sıfırlanır.
 
-### İkinci sıra (Gün 90 niş değiştirme kuralı için): Tarih anlatımı
-Veride en yüksek izlenme saati potansiyeli tarihte (40 küçük kanal videosu, 44 dakikalık medyan süre). İkinci sıraya koymamın sebepleri: (1) sonuçlar uç değerli, bazı kelimelerde medyan 450; (2) 40–80 dakikalık belgesel temel kurgu ve haftada 35–40 saatle haftada 1'den fazla çıkmaz; (3) başarılı küçük kanalların bir kısmı (ör. "Der Kommandant Türkçe", "Frontline War Memoirs") yabancı içeriğin çevirisi veya seri üretim izlenimi veriyor: hem "özgün olmayan içerik" riski taşıyor hem de rekabet ettiğin şey bu. **Avantaj:** KPSS Tarih için yaptığın araştırma tarih anlatımına doğrudan aktarılır. Geçiş maliyeti düşük.
+**"Detaylı anlatım yakaladık mı, başarı oranı artar mı?"** Veri bunu doğrudan ölçmüyor. Gördüğümüz şu:
+- Son 2 yılda aramada çıkan küçük kanal videolarının 40–70 dakikalık olanlarının medyan izlenmesi **14.391** (n=13), 70+ dakikalıkların **27.066** (n=11); 15–40 dakikalıkların **3.695** (n=9), 3–15 dakikalıkların **526** (n=7). Örnekler küçük, ama yön net: **uzun ve "tam hikâye" formatı kısa anlatıdan çok daha iyi çalışıyor.**
+- Başlık kalıpları: "Tüm Antik Mısır Tarihi", "Hitit İmparatorluğu'nun Tam Hikayesi", "36 Padişahın Ölüm Nedeni Tek Videoda", "Antik Sümer: Tam Hikaye". Yani "detay" izleyiciye **tamlık ve derinlik** olarak satılıyor.
+- Bunun *neden* çalıştığını (detay mı, başlık mı, tutma süresi mi) API'den bilemem. Detay avantajı bir hipotez; ilk 10 videoda test et.
+- **Başarı oranını artıracağını söyleyemem.** Tarih nişi *yüksek tavanlı ama yüksek varyanslı*: 30 küçük kanalın medyan izlenmelerinin ortancası yaklaşık 7.000, ama **11'inin medyanı 1.000'in altında** ve en iyi 7'si 100.000'in üstünde. Kazanan çok kazanıyor, kaybeden hiç izlenmiyor. Hayatta kalan yanlılığı da cabası: listede olmayan binlerce kanal var.
+
+**Tarihin zayıf yanları (görmezden gelme):**
+1. **Üretim yükü en ağır niş.** 45–70 dakikalık videoyu haftada 3 çıkaramazsın. Gerçekçi tempo haftada **1 uzun + 1 kısa** (Bölüm 14). Bu, yeni kanalın "çok video = çok şans" avantajını elinden alır; her video tek atış.
+2. **Gelir tarafı zayıf.** Tarihin RPM'i bu araçta 2/5 (en düşüklerden). KPSS'de PDF/not paketi satışı vardı; tarihte karşılığı zayıf (bkz. Bölüm 11). İlk yıl AdSense dışı gelir beklentisi düşük.
+3. **Görsel ihtiyacı yüksek ve telif riski var.** 60 dakikalık anlatıya harita, tablo, gravür, fotoğraf gerekir. Kaynak: Wikimedia Commons, Library of Congress, müze açık arşivleri (lisansı her görselde kontrol et).
+4. **Ana aramalar büyük kanallarda kilitli.** Uzun sonuçların **%62'si 100.000+ aboneli kanallardan**. "osmanlı tarihi" gibi geniş aramada yeni kanal sıralamaya giremez; dar konu ve dönemle gireceksin.
+5. **Politika riski: "özgün olmayan içerik".** Listedeki küçük ama başarılı kanalların bir kısmı (ör. *Der Kommandant Türkçe*, *Frontline War Memoirs Türkçe*, *Veritas Günlükleri*) seri üretim veya yabancı içerik çevirisi izlenimi veriyor. Bunu doğrulayamam. Eğer öyleyse, taklit etmek hem YPP incelemesine takılmak hem de aynılaşmak demek. Senin farkın: özgün araştırma + kendi sesin + kaynak.
+6. **Örneklem 40 video, 30 kanal.** Güçlü işaret, kanıt değil.
+
+**Alt niş seçimi (ilk 8 video için, veriye göre):**
+| Anahtar kelime | Küçük kanal videosu (son 2 yıl) | Küçük kanal medyan izlenme | Yorum |
+|---|---|---|---|
+| tarih belgeseli türkçe | 4 | 305.219 | Geniş; format örneği |
+| osmanlı tarihi | 3 | 409.425 | Büyük kanallar baskın (son 12 ay medyan 247 bin); dar konu şart |
+| antik medeniyetler | 6 | 99.451 | **Önerilen başlangıç:** Hitit, Sümer, Mısır, Mezopotamya "tam hikâye" örnekleri küçük kanallarda 52–234 bin |
+| ikinci dünya savaşı belgesel | 12 | 17.429 | Orta; çeviri/seri üretim şüphesi en yüksek alan, uzak dur |
+| selçuklu tarihi | 3 | 482 | **Kaçın:** talep düşük |
+| kayıp şehirler | 10 | 452 | **Kaçın:** gizem formatı, düşük izlenme |
+
+Öneri: **Antik medeniyetler** ile başla (dar, hikâye değeri yüksek, küçük kanallar başarılı), 5. videodan sonra **Osmanlı'dan dar bir konu** (tek padişah, tek olay) ekle. Hangi dönemi gerçekten bildiğin/araştırmayı sevdiğin, bu tablodan daha önemli: 24 saat araştırmaya gömeceğin konuyu sevmezsen Gün 90'a varmadan bırakırsın.
+
+**Yedek (Gün 90 kuralı için): KPSS Tarih.** Aynı araştırma, kısa tekrar formatı, ürün satışı mümkün. Yukarıdaki KPSS verisi bunu destekler.
+
+> Not: KPSS için yapılan analiz (son 2 yılın küçük kanal videolarının %96'sı 1.000+ izlenme, yıllık yenilenen sıralama) önceki commit'te ve `nis-analizi/sonuclar/` içinde duruyor. Tarihe geçmemizin sebebi verinin "tarih daha iyi" demesi değil, senin tercihin ve hata hassasiyetin; veri tarihin tavanını destekliyor, güvenilirliğini değil. Gelir açısından KPSS daha güvenli, tavan açısından tarih daha yüksek.
 
 ---
 
 ## 4. Hedef kitle
 
-**Birincil:** 20–30 yaş, KPSS'ye hazırlanan üniversite son sınıf öğrencisi veya mezun; ayrıca önlisans/ortaöğretim düzeyinde KPSS'ye giren daha geniş bir kitle.
-- Sorunu: Ezberlenecek bilgi çok, zaman az; hangi konunun önemli olduğunu bilmiyor.
-- Motivasyonu: Kadro, güvenceli iş. Yüksek motivasyon, yüksek kaygı.
-- İzleme bağlamı: Çoğunlukla telefondan; kütüphane arasında, yolda, yatmadan önce. Sınav öncesi haftalarda yoğun "tekrar" araması.
+**Birincil:** 20–50 yaş, tarih meraklısı, uzun anlatı izlemeye alışkın izleyici. Veride başarılı kanalların adları ve başlıkları ("Uyumadan Önce Osmanlı Tarihi", "Uyku İçin Bilim", "Tam Belgesel") bir şeyi gösteriyor: bu içerik çoğunlukla **akşam, TV veya telefondan, arka planda dinlenerek** tüketiliyor.
+- Sonuçları: **ses kalitesi görüntüden önemli.** Kötü mikrofon uzun videoyu öldürür; sakin, anlaşılır, tonlaması iyi bir anlatım ana ürün.
+- Motivasyonu: Merak, bilgiyi tamamlama, "tek videoda bütün hikâye".
+- Sorunu: Dağınık, yüzeysel, abartılı başlıklı anlatımdan bıkmış; kaynağı belli, düzgün anlatılmış içerik arıyor.
 
-**İkincil:** Kurumsal sınavlara (görevde yükselme, bazı kurum sınavları) hazırlananlar; genel kültür meraklıları (tarih videoları üzerinden).
+**İkincil:** Lise/üniversite öğrencileri ve KPSS adayları (özellikle KPSS Tarih'e yan ürün olarak ulaşılabilir).
 
-**Kapsam dışı (başlangıçta):** Matematik ve sayısal dersler, eğitim bilimleri, alan bilgisi. Uzmanlık gerektirir.
+**Kapsam dışı (başlangıçta):** Gizem/komplo ("kayıp şehirler" 452 medyan), güncel siyaset yorumu, tartışmalı yakın tarih (moderasyon yükü).
 
-**Doğrulama görevi (ilk 2 hafta):** Kitlenin dilini duy. Rakip video yorumları, KPSS forumları ve sosyal medya grupları, YouTube otomatik tamamlama ("kpss tarih ...", "kpss vatandaşlık ..."). Önerileri 150 satırlık bir listeye dök. ÖSYM'nin son 5 yılın çıkmış sorularındaki konu dağılımını tabloya dök: hangi konudan kaç soru geliyor? İçerik önceliği bu tablodan çıkacak.
+**Doğrulama görevi (ilk 2 hafta):** Seçtiğin alt konuda YouTube otomatik tamamlamasını, rakip videoların yorumlarını (cevapsız sorular, hata düzeltmeleri) ve Ekşi Sözlük başlıklarını tara. 100 satırlık konu listesi çıkar.
 
 ---
 
 ## 5. Rakip analizi
 
 ### Veride görünen örnekler (`nis-analizi/sonuclar/videolar.csv`)
-Küçük ve yeni, yüzsüz veya yüzsüze yakın formatla iş gören kanallar: *Not Panosu*, *Kapsül X*, *Kpss Akademi 2026*, *Emrah Vahap Özkaraca*. Ana aramalarda sıralamayı tutan büyük kanalları tabloda kendin filtrele (abone sütununa göre sırala). **Abone ve izlenme sayıları 12 Ekim 2026 tarihli; değişir.**
+Küçük kanallarda yüksek izlenme alan tarih anlatımları: *Çağlar Boyu Tarih*, *Uyumadan Önce Osmanlı Tarihi*, *Varoluş - Din ve Tarih*, *Veritas Günlükleri*, *İnsan Çağı*. İzlenme örnekleri 100–400 bin, kanal büyüklükleri 5–10 bin abone. **Sayılar 12 Ekim 2026 tarihli.**
 
 ### Rakip denetim protokolü (Hafta 0'da yap, 6 saat)
-1. 10 kanal seç: 5 büyük KPSS kanalı + 5 küçük/yeni (1–10 bin abone; yukarıdakilerden başla).
-2. Her kanalın "Popüler" sıralamasındaki ilk 20 videosunu bir tabloya yaz: başlık, izlenme, yaş, süre, format (yüz var mı, slayt mı, tahta mı).
-3. **Aykırı değerleri bul:** Kanalın abone sayısından fazla izlenen videolar. Bunlar kitlenin gerçekten talep ettiği konulardır.
-4. **Küçük kanallarda formatı çöz:** "Not Panosu"nun 106 bin izlenen videosu neden çalıştı? Süre, başlık kalıbı, küçük resim, yayın zamanı (sınava kaç gün kala?).
-5. Yorumlarda **cevapsız kalmış soruları** ve **hata düzeltmelerini** topla. İlki video fikri, ikincisi rakibin zayıf noktası.
+1. 10 kanal seç: 5 büyük tarih kanalı + 5 küçük (yukarıdakilerden başla).
+2. Her kanalın "Popüler" listesinden ilk 15 videoyu tabloya yaz: başlık, izlenme, süre, yaş, **görsel türü** (arşiv görseli, harita, animasyon, düz görsel), **ses** (insan/yapay).
+3. **Özgünlük kontrolü:** Kanalın videoları kendi araştırması mı, yabancı belgesel çevirisi mi? Seri ve şablon üretim izlenimi veriyor mu? (Bu, hem kimden öğreneceğini hem hangi kalıbı kopyalamayacağını belirler.)
+4. **Aykırı değerleri bul:** Abone sayısının 20–100 katı izlenen videolar. Neden? Başlık, konu, süre, yayın zamanı.
+5. Yorumlarda **hata düzeltmelerini** ve **cevapsız soruları** topla: ilki rakibin zayıf noktası, ikincisi video fikri.
 6. Test edilecek hipotezler:
-   - Kısa ve yoğun "son tekrar" formatı (10–20 dk) uzun ders videolarından daha iyi çalışıyor.
-   - Görsel hafıza araçları (harita, zaman çizelgesi, şema) kullanan yüzsüz anlatım az.
-   - "En çok karıştırılan bilgiler" ve "çıkmış soru analizi" türü içerik az işlenmiş.
-   - Videoya eşlik eden indirilebilir PDF özet veren kanal az.
+   - "Tam hikâye / tek videoda" formatı (45–70 dk) arama ve öneride kısa anlatıdan daha iyi çalışıyor. (Veride 4 kat fark var, n küçük.)
+   - Kaynağı gösteren, tartışmalı noktaları açıkça belirten bir anlatım güven farkı yaratıyor.
+   - Harita ve zaman çizelgesi gibi görsel sistem az kanalda var.
 
-Bu hipotezler doğrulanmazsa konumlandırmayı değiştir. Varsayımla değil veriyle ilerle.
+Doğrulanmazsa konumlandırmayı değiştir.
 
 ---
 
 ## 6. Konumlandırma
 
-**Vaat:** "KPSS Genel Kültür'ü kısa, görsel ve doğru tekrar et. Her videonun PDF özeti ekte."
+**Vaat:** "Tarihin bir dönemini, tek videoda, kaynakları gösterilmiş ve kendi araştırmamla anlatıyorum."
 
 **Farklılaşma:**
-- **Kısa ve yoğun:** 2 saatlik ders yerine 12–20 dakikalık konu tekrarları. Kitle zaten büyük kanalların uzun derslerini izliyor; sen tekrar ve pekiştirme katmanısın.
-- **Görsel hafıza:** Harita (coğrafya), zaman çizelgesi (tarih), şema (vatandaşlık/anayasa). Yüzsüzlük dezavantaj değil, ekran zaten içerik.
-- **Çıkmış soruya bağlı:** Her video "bu konudan son yıllarda şu sorular geldi" ile biter. Ne çalışılacağını önceliklendirmek, en büyük değer önerin.
-- **Hatasız:** Kaynak gösterilir (madde numarası, yıl). Yorumda bulunan hata 24 saat içinde sabitlenmiş yorumla düzeltilir.
-- **Her videonun PDF özeti** (ücretsiz). Güven ve e-posta/Telegram listesi buradan kurulur; ücretli ürün buradan çıkar.
+- **Özgün araştırma ve kendi sesin.** Yabancı belgesel çevirisi veya yapay zekâ seslendirmesi yok (Bölüm 0: politika riski).
+- **Kaynak şeffaflığı:** Her videonun açıklamasında kaynak listesi (kitap, makale, birincil kaynak). Tartışmalı noktada "kaynaklar ayrışıyor" denir.
+- **Görsel sistem:** Her videoda en az bir harita ve bir zaman çizelgesi. İzleyici nerede olduğunu görür.
+- **Dar odak:** "Osmanlı tarihi" yerine bir dönem veya olay. Geniş aramalarda büyük kanallar var (uzun sonuçların %62'si 100.000+ aboneli kanallardan).
+- **Hata politikası:** Yorumda doğrulanmış hata 24 saat içinde sabitlenmiş yorumla düzeltilir.
 
-**Kanal adı:** "KPSS" kelimesini isme koymayı düşün ama tek sınava kilitlenme riskini tart; genel kültür / tekrar / not çağrışımlı, kısa ve söylenmesi kolay bir ad seç. YouTube'da, Instagram'da ve alan adında müsaitliğini kontrol et.
+**Kanal adı:** Kısa, söylenmesi kolay, "tarih/anlatı" çağrışımlı; tek bir döneme kilitleme (ileride Osmanlı, antik, savaşlar arasında geçiş yapabil). Seçmeden önce YouTube, Instagram ve alan adında müsaitliğini kontrol et.
 
-**Görsel kimlik:** Ders başına bir renk (tarih, coğrafya, vatandaşlık, güncel), tek font. Küçük resimde ders adı + konu + süre ("KPSS Coğrafya · İklim · 14 dk"), en fazla 5 kelime.
+**Görsel kimlik:** Tek ana renk + tek font, sepya/koyu tonlu arşiv estetiği. Küçük resim: tek güçlü görsel (portre, harita parçası) + en fazla 4 kelime. Mobilde okunabilirliğini telefonda kontrol et.
 
 ---
 
 ## 7. İçerik kategorileri (sütunlar)
 
-| Sütun | Oran | Amaç | Süre | Örnek |
+| Sütun | Ritim | Amaç | Süre | Örnek |
 |---|---|---|---|---|
-| **A. Konu tekrar videoları** | %50 | Arama trafiği, kalıcı izlenme, izlenme saati | 12–20 dk | "KPSS Tarih · Osmanlı Kuruluş Dönemi · 15 Dakikada Tekrar" |
-| **B. Karıştırılan bilgiler / çıkmış soru analizi** | %20 | Farklılaşma, paylaşılma | 8–15 dk | "Vatandaşlıkta En Çok Karıştırılan 20 Anayasa Maddesi" |
-| **C. Genel tekrar (ders bazında, uzun)** | %15 | İzlenme saati motoru; sınav öncesi dalga | 30–60 dk | "KPSS Coğrafya Genel Tekrar · Tek Video" |
-| **D. Güncel bilgiler** | %15 | Taze arama trafiği; her yıl yenilenir | 10–20 dk | "2026 Güncel Bilgiler · Ekim Ayı" |
-| **Shorts** | Haftada 5–7 | Abone ve keşif. Para değil. | 20–45 sn | "Bu bilgi her yıl soruluyor: ..." |
+| **A. "Tam hikâye" anlatısı** | Haftada 1 | İzlenme saati motoru, arama ve öneri trafiği | 45–60 dk | "Hitit İmparatorluğu'nun Tam Hikayesi" |
+| **B. Kısa anlatı** | Haftada 1 | Keşif, abone, A videosuna yönlendirme | 12–18 dk | "Hititler Mısır'la Neden Savaştı? Kadeş'in Gerçek Hikâyesi" |
+| **Shorts** | Haftada 3 | Abone ve keşif. Para değil. | 20–45 sn | A videosundan tek ilginç bilgi |
 
-**Kural:** İlk 12 videonun en az 8'i A sütunundan, müfredat sırasına göre ve **oynatma listesi** halinde olacak. Seri izlenen içerik, izlenme saatini ve aboneyi en hızlı büyüten yapıdır.
+**Kural:** İlk 8 A videosu **tek bir bağlantılı seri** olacak (ör. "Antik Anadolu": Hatti → Hitit → Frig → Lidya...), oynatma listesi halinde. Seri izleyici bırakmaz; tekil videolar arasında bağ kurmak, 40 dakikalık içerikte oturum süresini büyütür.
 
-**Sınav takvimine göre yıllık döngü (ÖSYM takvimini doğruladıktan sonra kesinleştir):**
-- Sınava 6+ ay: A sütunu ağırlıklı, müfredatı baştan sona kapsa. Bu videolar sonraki yıllarda da izlenir.
-- Sınava 3–6 ay: B sütununu artır, çıkmış soru analizleri.
-- Sınava 0–8 hafta: C ve D sütunu (genel tekrar, güncel bilgiler, "son tekrar"). Veride en yüksek hız bu dönemde.
-- Sınav sonrası: Talep düşer. Bu dönemde bir sonraki yılın A sütunu videolarını önden üret ve tarih anlatımı (ikincil kitle) için deneme videoları yap.
+**Veri uyarısı:** Veride 3–15 dakikalık küçük kanal videolarının medyan izlenmesi 526 (n=7). B sütununun görevi tek başına izlenme getirmek değil, A'ya bağlamak. B videoları 8 tane yayınlandıktan sonra hâlâ 500'ün altındaysa B'yi azalt, A'ya zaman ayır.
 
 ---
 
 ## 8. Video formatları ve üretim standardı
 
-### Uzun video şablonu
+### Uzun video şablonu (45–60 dk)
 | Zaman | Bölüm | İçerik |
 |---|---|---|
-| 0:00–0:15 | **Kanca** | Vaadi söyle ("Bu 12 dakikada Osmanlı'nın kuruluş dönemini, sınavda çıkan her noktasıyla tekrar edeceğiz"). Selamlama, kanal tanıtımı, "abone ol" yok. |
-| 0:15–0:45 | **Sorun** | Bu konudan son yıllarda kaç soru çıktı, hangi noktalar karıştırılıyor. İzleyici neden izlemesi gerektiğini görmeli. |
-| 0:45–sonu-1dk | **Çözüm** | Konu anlatımı: harita, zaman çizelgesi veya şema üzerinden. Her 3–4 bilgide bir mini özet. |
-| Ortada | **Yaygın hata** | "Sınavda en çok karıştırılan nokta" + çıkmış soru örneği. İzleyiciyi tutan en etkili bölümlerden biri. |
-| Son 30–60 sn | **Bağlantı** | Bir sonraki mantıklı videoya yönlendir (bitiş ekranı). Abone çağrısını burada, tek cümleyle yap. |
+| 0:00–0:30 | **Kanca** | En çarpıcı soru veya sahne ("Dünyanın ilk yazılı barış antlaşması..."). Selamlama, kanal tanıtımı, "abone ol" yok. |
+| 0:30–1:30 | **Vaat + bağlam** | Bu videoda neyi cevaplayacağın, hangi kaynaklara dayandığın, kısa harita. |
+| 1:30–sonu-2 dk | **Anlatı** | 6–8 bölüm, her biri 5–8 dk, her bölümün başında zaman çizelgesi ve bölüm başlığı. Her 8–10 dk'da yeni görsel tür veya tempo değişimi. |
+| Ortada | **Açık döngü** | "Bu savaşın sonucunu birazdan göstereceğim, ama önce neden başladığını anlamalısın." Söz verdiğini yap. |
+| Son 2 dk | **Kapanış** | Özet, tartışmalı noktalar, kaynaklar. Bir sonraki serinin videosuna bitiş ekranı. Abone çağrısı burada, tek cümle. |
 
 ### Teknik standart
-- **Görsel:** PowerPoint/Google Slides veya Canva ile slayt; harita ve şemalar için telifsiz kaynaklar. Slayt başına az metin, büyük yazı (telefondan izlenecek). Dışa aktarım: OBS Studio veya doğrudan CapCut, 1080p.
-- **Ses:** Mikrofon ağıza 15–20 cm, sessiz oda, yumuşak yüzeyler. Kurgu programında gürültü azaltma. **Kötü ses, kötü görüntüden daha hızlı izleyici kaybettirir.**
-- **Seslendirme:** Kendi sesin. Senaryoyu yaz ama okuyormuş gibi değil anlatıyormuş gibi kaydet. Yapay zekâ seslendirmesi yok.
-- **Kurgu:** DaVinci Resolve veya CapCut masaüstü (ücretsiz). Sessizlikleri ve tekrarları kes; slaytı sese göre animasyonla ilerlet; önemli kelime/tarihi vurgula.
-- **Küçük resim:** Canva ücretsiz. Mobilde küçük boyutta okunabilir mi diye telefonda kontrol et.
-- **Başlık formülü:** [Ders + konu + yıl] + [süre/format]. Örn: "KPSS Coğrafya · İklim · 14 Dakikada Son Tekrar (2026)".
-- **Açıklama:** İlk 2 satırda anahtar ifade + dosya linki; bölümler (zaman damgaları); ilgili 2 video linki.
-- **Altyazı:** YouTube otomatik Türkçe altyazısını kontrol edip düzelt (teknik terimlerde hata yapar).
+- **Ses (en kritik):** Mikrofon ağıza 15–20 cm, sessiz oda, yumuşak yüzeyler. Gürültü azaltma ve ses seviyesi eşitleme. **İzleyicinin çoğu dinliyor: kötü ses kanalı bitirir.** Kendi sesin; yapay ses yok.
+- **Görsel:** Wikimedia Commons, Library of Congress, müze açık arşivleri, telifsiz haritalar. Her görselin lisansını ve kaynağını bir tabloya kaydet (açıklamaya "Görsel kaynakları" ekle). Harita ve zaman çizelgesi için Canva veya PowerPoint.
+- **Müzik:** YouTube Ses Kitaplığı veya lisanslı arka plan; sesi anlatıyı bastırmasın.
+- **Kurgu:** DaVinci Resolve veya CapCut masaüstü. Görseli anlatıyla senkronize et, yavaş zoom ve pan (Ken Burns) kullan, sessizlikleri ve tekrarları kes.
+- **Küçük resim:** Canva ücretsiz. Tek güçlü görsel + en fazla 4 kelime. Telefonda küçük boyutta okunabilir mi kontrol et.
+- **Başlık formülü:** [Konu/dönem] + [format veya merak]. Örn: "Hitit İmparatorluğu'nun Tam Hikayesi | Unutulmuş Süper Güç" (veride çalışan kalıp).
+- **Açıklama:** İlk 2 satırda anahtar ifade; bölümler (zaman damgaları); **kaynak listesi**; ilgili 2 video.
+- **Altyazı:** YouTube otomatik Türkçe altyazısını düzelt (özel isim ve yer adlarında hata yapar).
 
 ### Yapay zekâ kullanımı (kabul edilebilir sınır)
-- Konu araştırma, senaryo taslağı, başlık alternatifleri: **Evet.**
-- Senaryonun son hali, örnekler, anlatım, seslendirme: **Senin.** Yoksa videon rakiplerinin yapay zekâ çıktısıyla aynılaşır ve politika riskine girer.
+- Kaynak tarama, kronoloji çıkarma, başlık alternatifleri: **Evet, ama her olguyu birincil/akademik kaynakla doğrula.** Yapay zekâ tarihlerde ve isimlerde güvenle yanlış söyler.
+- Senaryo, anlatım ve seslendirme: **Senin.** Yoksa "özgün olmayan içerik" riskine girersin ve rakiplerinle aynılaşırsın.
 
 ---
 
 ## 9. Paylaşım ve büyüme sistemi
 
 ### Yayın takvimi
-- **Uzun video:** Hafta 1–4'te haftada 2 (Salı, Cuma); Hafta 5'ten itibaren haftada 3 (Salı, Perşembe, Cumartesi), saat 19:00. (Arama trafiğinde yayın saati az önemlidir; sabit takvim senin disiplinin içindir.)
-- **Shorts:** Hafta 1–4'te haftada 5, sonra her gün 1.
-- **Tampon:** Kanalı açmadan önce **3 video hazır** olsun. Bir hafta hastalanınca takvim çökmemeli.
-- Tutarlılık > sıklık. Tempoyu ancak kalite sabitken artır. Haftada 3 kötü video, haftada 2 iyi videodan daha az büyütür.
+- **A (uzun):** Haftada 1 (Perşembe veya Cuma 19:00; akşam dinleme kitlesi için). Arama trafiğinde yayın saati az önemlidir; sabit takvim senin disiplinin içindir.
+- **B (kısa):** Haftada 1 (Salı).
+- **Shorts:** Haftada 3.
+- **Tampon:** Kanalı açmadan önce **2 uzun video + 2 kısa video hazır** olsun (yaklaşık Hafta 0–3). Hastalıkta takvim çökmemeli.
+- Tutarlılık > sıklık. Tarihte yeni kanalın tek avantajı "haftada çok video" olamaz; avantajın her videonun kalitesi.
 
 ### Büyüme motoru
-1. **Arama (ana motor):** Her video bir aranan ifadeyi hedefler. Anahtar kelime araştırma süreci:
-   - YouTube arama kutusunda otomatik tamamlama ("kpss tarih ...", "kpss vatandaşlık ...")
-   - Google Trends (Türkiye, YouTube araması filtresi)
-   - vidIQ ücretsiz eklentisi (arama hacmi tahmini; kesin değil)
-   - Rakip aykırı videoları (Bölüm 5)
-   - **Uzun kuyruk ifadeleri hedefle:** "kpss tarih" değil "kpss tarih osmanlı duraklama dönemi ıslahatlar".
-2. **Oturum süresi:** Oynatma listeleri (müfredat sırasıyla: "KPSS Tarih Tekrar Serisi", "KPSS Coğrafya Tekrar Serisi"), bitiş ekranları, açıklamadaki ilgili videolar.
-3. **Google arama:** Eğitim videoları Google'da da çıkar. Başlık ve bölüm adlarını Google'da aranacak şekilde yaz.
-4. **Platform dışı dağıtım:** Hedef kitle Telegram/WhatsApp çalışma gruplarında, Instagram ve forumlarda. PDF özetleri bir Telegram kanalında topla. Gruplarda ve forumlarda **spam yapmadan**, gerçek sorulara cevap verip kaynak olarak videonu ekle.
-5. **Şablon dosyası:** İndirilebilir dosya, izleyiciyi geri getirir ve ileride e-posta listesine dönüşür.
-6. **Paketleme testi:** YouTube'un "Test ve Karşılaştır" özelliğiyle küçük resim A/B testi (kanalında açıksa).
+1. **Arama (ana motor):** Her A videosu bir aranan ifadeyi hedefler. Araçlar: YouTube otomatik tamamlama ("hitit tarihi ...", "antik sümer ..."), Google Trends, vidIQ ücretsiz eklenti (tahmin), rakip aykırı videoları (Bölüm 5). **Dar konu hedefle:** "osmanlı tarihi" değil "kadeş savaşı hititler mısır".
+2. **Seri ve oturum süresi:** Oynatma listeleri, bitiş ekranları, açıklamada serideki önceki/sonraki video.
+3. **Google arama:** Tarih videoları Google'da da çıkar. Başlık ve bölüm adlarını aranacak şekilde yaz.
+4. **Platform dışı dağıtım:** Tarih forumları, Ekşi Sözlük, Reddit/r/Turkey tarih başlıkları, Instagram kısa kesitler. **Spam yapma;** gerçek sorulara kaynakla cevap verip videoyu ek olarak ekle.
+5. **Topluluk:** Yorumlardaki doğru düzeltmeleri teşekkürle sabitle; güven oluşturur.
+6. **Paketleme testi:** "Test ve Karşılaştır" ile küçük resim A/B testi (kanalında açıksa).
 
 ### Karar kuralları (veri gelince)
 - Her pazartesi YouTube Studio'da son 28 günü incele.
-- **Gösterim tıklama oranı (CTR):** Nişe göre değişir, sabit bir doğru sayı yok. Kendi kanal ortalamanın altında kalan videoların küçük resim/başlığını değiştir.
-- **Ortalama izlenme yüzdesi:** 8–12 dk eğitim videosunda %35–40'ın altı = anlatımda sorun var. İzleyici tutma grafiğinde ani düşüş noktalarını bul.
-- **Sütun değerlendirmesi:** Her sütundan en az 6–8 video yayınlamadan bir sütun hakkında karar verme. Sonra en iyi performans gösteren sütuna ağırlık ver, en kötüsünü azalt.
-- **Ay 6 kontrol noktası:** Gösterimler aydan aya artmıyorsa, ortalama izlenme yüzdesi %30'un altındaysa ve hiçbir video 1.000 izlenmeyi geçmediyse **niş veya format yanlıştır.** Aynı şeyi 6 ay daha yapmak sonucu değiştirmez; konumlandırmayı değiştir.
+- **Gösterim tıklama oranı (CTR):** Sabit doğru sayı yok. Kendi ortalamanın altındaki videoların küçük resim/başlığını değiştir.
+- **Ortalama izlenme yüzdesi (uzun):** 45+ dk videoda **%30–40** iyi sayılır; %25'in altı anlatımda sorun var. Tutma grafiğinde düşüş noktalarını bul.
+- **Sütun değerlendirmesi:** A sütunundan en az 6 video yayınlamadan sütun hakkında karar verme.
+- **Ay 6 kontrol noktası:** Gösterimler artmıyor, ortalama izlenme %25'in altında ve hiçbir A videosu 1.000 izlenmeyi geçmediyse **konu, süre veya format yanlıştır.** 6 ay daha aynısını yapmak sonucu değiştirmez.
 
 ---
 
@@ -264,7 +270,7 @@ Bu hipotezler doğrulanmazsa konumlandırmayı değiştir. Varsayımla değil ve
 
 1. **İlk 30 saniye her şeydir.** Logo animasyonu, "merhaba arkadaşlar", kanal tanıtımı, sponsor yok. Sonucu göster, sonra anlat.
 2. **Vaat edilen şeyi geciktirme.** Başlıkta vaat edilen çözüm en geç 1. dakikada başlamalı.
-3. **Görsel değişim:** Her 5–10 saniyede bir yakınlaştırma, vurgulama veya ekran değişimi. Uzun, statik slayt izleyici kaybettirir.
+3. **Görsel değişim:** Her 5–10 saniyede bir yakınlaştırma, vurgulama veya ekran değişimi. Uzun, statik görsel izleyici kaybettirir.
 4. **Açık döngü:** "Videonun sonunda bu tabloyu tek tıkla güncellemeyi de göstereceğim." Söylediğini mutlaka yap; yapmazsan güven kaybedersin.
 5. **Sessizlik ve tekrar kurgusu:** Düşünme duraklamalarını, "ııı"ları, yanlış tıklamaları kes.
 6. **Bölümler (zaman damgası):** Aramada görünürlük sağlar. Bazı izleyiciler doğrudan ilgili bölüme atlar; bu izlenme yüzdesini biraz düşürür ama memnuniyeti artırır. Kullan.
@@ -278,34 +284,34 @@ Bu hipotezler doğrulanmazsa konumlandırmayı değiştir. Varsayımla değil ve
 
 | Aşama | Ne zaman (tahmini) | Gelir kaynağı | Gerçekçi beklenti |
 |---|---|---|---|
-| 0 | İlk günden | **Ücretsiz PDF özetler + Telegram/e-posta listesi.** Gelir değil, ürün satışının zemini. | Para yok; ama kanal dışındaki tek varlığın olan kitle listesi burada kurulur. |
-| 1 | 20–30 video sonrası | **Dijital ürün satışı:** ders notu paketi, çıkmış soru analizi, çalışma programı (Shopier gibi Türk ödeme altyapıları) | Ücretsiz PDF ile güven kur, gelişmiş paketi sat. Sınav öncesi dönemlerde yoğunlaşır. İlk yılın muhtemel ana geliri; hatasız içerik şart. |
-| 1 | Erken | **Ortaklık (affiliate):** Amazon Türkiye ortaklık programı (ekipman), kurs platformlarının ortaklık programları | Düşük. Bu kitlede kayda değer gelir çıkarmaz; ek gelir olarak gör. |
-| 2 | 500 abone + 3.000 saat | Kanal üyeliği, Süper Teşekkürler | Türkiye'de bu nişte ihmal edilebilir. |
-| 3 | 1.000 abone + 4.000 saat | **AdSense reklam geliri** | Başlangıçta ayda birkaç yüz TL ile birkaç bin TL arası. |
-| 4 | Genellikle 10.000+ abone | **Sponsorluk:** Yazılım, verimlilik araçları, kurs platformları, bankaların KOBİ ürünleri | Abone sayısından çok kitlenin niteliğine bağlı. Beyaz yakalı kitle burada avantajlı. |
-| 5 | Güven oluşunca | **Kendi ücretli kursun** | En yüksek kâr marjı. Erken yaparsan satmaz. |
+| 0 | İlk günden | **Freelance yazı/seslendirme/araştırma işi** (kanal = portföy) | Tarih nişinin ürün satışı zayıf; erken gelir için en gerçekçi kaynak. Garanti yok. |
+| 1 | Erken | **Ortaklık (affiliate):** kitap (Amazon Türkiye, kitapçı programları), belgesel/platform ortaklıkları | Düşük; açıklamadaki kaynak kitaplara bağla. Ek gelir olarak gör. |
+| 2 | 500 abone + 3.000 saat | Kanal üyeliği, Süper Teşekkürler | Tarih kitlesi sadık; üyelik (erken izleme, kaynak listesi) küçük ama düzenli olabilir. |
+| 3 | 1.000 abone + 4.000 saat | **AdSense reklam geliri** | Tarihin RPM'i düşük (araç tahmini 2/5). Başlangıçta ayda birkaç yüz TL civarı, uzun izlenme saati bunu kısmen telafi eder. |
+| 4 | Genellikle 10.000+ abone | **Sponsorluk:** kitap yayınevleri, belgesel/eğitim platformları, VPN/uygulama | Abone sayısına ve kitle güvenine bağlı. |
+| 5 | Güven oluşunca | **Kendi ürünün:** kitap/e-kitap, harita seti, KPSS Tarih notu | **KPSS Tarih** yan serisi, satılabilir ürün için en gerçekçi köprü. |
 
 ### Vergi ve yasal (atlanırsa sonradan sorun çıkarır)
 - **AdSense vergi bilgileri:** ABD vergi formunu AdSense'te doldurmazsan ABD kaynaklı gelirinden yüksek oranda (azami %24) kesinti yapılabilir. İlk iş olarak doldur.
-- **Türkiye:** Sosyal içerik üreticileri için Gelir Vergisi Kanunu 20/C kapsamında, özel banka hesabı ile stopaj yoluyla istisna uygulaması var. Güncel yıllık limiti ve şartları **mali müşavirle veya GİB'den** kontrol et; limit her yıl değişiyor. Freelance/kurumsal eğitim geliri bu istisnanın kapsamı dışında kalabilir.
+- **Türkiye:** Sosyal içerik üreticileri için Gelir Vergisi Kanunu 20/C kapsamında, özel banka hesabı ile stopaj yoluyla istisna uygulaması var. Güncel yıllık limiti ve şartları **mali müşavirle veya GİB'den** kontrol et; limit her yıl değişiyor. Freelance gelir bu istisnanın kapsamı dışında kalabilir.
 - **Telif:** Videolarda kullandığın müzik, görsel ve font lisanslı olmalı. YouTube Ses Kitaplığı'nı kullan.
 
 ---
 
-## 12. KPI'lar ve kontrol noktaları (hızlandırılmış)
+## 12. KPI'lar ve kontrol noktaları
 
-Bunlar hedef değil, **sağlık işaretleri**. Eşikler niş seçilmeden önce genel olarak belirlendi; KPSS'de sınav mevsimi izlenmeyi dalgalandırır, Gün 90 değerlendirmesini sınav takvimine göre yorumla (sınavdan hemen sonra düşüş normaldir, alarm sayma). Hızlı planın asıl avantajı, yanlış yolda olduğunu 12 ay yerine 90 günde anlamaktır.
+Bunlar hedef değil, **sağlık işaretleri**. Tarihte az video çıktığı için (haftada 1 uzun) her kontrol noktasındaki örnek küçük; tek videoya göre karar verme, en az 3–4 videonun ortalamasına bak. Ayrıca bu nişte darboğaz saat değil **aboneliktir** (Bölüm 1): saat hesabı kolay, 1.000 abone zor.
 
-| Kontrol noktası | Yayınlanmış uzun video (yaklaşık) | Sağlıklı işaret | Alarm işareti → yapılacak |
+| Kontrol noktası | Yayınlanmış (A + B) | Sağlıklı işaret | Alarm işareti → yapılacak |
 |---|---|---|---|
-| Gün 30 | 8 | Videolar arama gösterimi alıyor; en az 1 video 500+ izlenme | Tüm videolar 100 izlenmenin altında ve gösterimler artmıyor → başlık/anahtar kelime/küçük resim sorunu; paketlemeyi değiştir |
-| Gün 60 | 20 | Son 28 günde izlenme saati 150+ ve artıyor; 2–3 video diğerlerinden belirgin şekilde iyi | Hiçbir video öne çıkmıyor → nişin içinde sütun değiştir; iyi giden tek konu varsa ona yüklen |
-| **Gün 90** | **32** | Toplam izlenme saati 600–1.000+; 150–400 abone | **200 saatin altı → niş değiştir.** Bölüm 3'teki ikinci sıra olan tarih anlatımına geç (KPSS Tarih araştırman aktarılır). 3 ay kaybetmek, 12 ay kaybetmekten iyidir |
-| Ay 6 | ~70 | Alt seviye eşiği (500 abone / 3.000 saat) yakın veya geçildi | 2.000 saatin altı → tempo değil strateji sorunu; baştan değerlendir |
-| Ay 9 | ~110 | Tam seviye eşiği (1.000 abone / 4.000 saat) | — |
+| Gün 30 | 4 A + 4 B | Videolar arama/öneri gösterimi alıyor; en az 1 video 1.000+ izlenme | Hiçbir video 300'ü geçmiyor → başlık, küçük resim, konu darlığı sorunu; konuyu daralt, başlığı değiştir |
+| Gün 60 | 8 A + 8 B | Son 28 gün 100+ izlenme saati ve artıyor; 1–2 video öne çıkıyor | Hiçbir A videosu öne çıkmıyor → süre/format testi (50 dk yerine 35 dk, seri yerine tekil); ama hâlâ 2 video daha dene |
+| **Gün 90** | **13 A + 13 B** | Toplam 300–800+ izlenme saati; 100–300 abone | **150 saatin altı veya 50 aboneden az → niş değiştir:** Bölüm 3'teki yedek **KPSS Tarih** (kısa tekrar formatı, aynı araştırma). 3 ay kaybetmek 12 ay kaybetmekten iyidir |
+| Ay 6 | ~26 A + 26 B | 300+ abone, 1.000–1.500 saat | Hâlâ 150 abonenin altında → strateji sorunu; Shorts oranını ve konu darlığını yeniden değerlendir |
+| Ay 9 | ~39 A + 39 B | 500+ abone (alt seviye eşiği yakın), 2.000–3.000 saat | — |
+| Ay 12 | ~50 A + 50 B | 1.000 abone + 4.000 saat (tam seviye) | **Gerçekçi olarak bu niş için 12 ay iyimser; 14–18 ay da normal olabilir.** |
 
-**Hesap (Ay 6 için):** 4.000 saat ≈ 4 dakikalık ortalama izlenme ile 60.000 uzun video izlenmesi. ~70 videoya bölününce video başına ortalama ~860 izlenme. İyi bir nişte bu ulaşılabilir; zayıf bir nişte haftada 10 video yapsan da ulaşılamaz. **Bu yüzden hızın asıl belirleyicisi niş seçimi, ikincisi paketleme. Saat sayısı üçüncü sırada.**
+**Hesap:** 4.000 saat = 240.000 dk. Ortalama izlenme süresi 15–18 dakika olan 50 dk videolarla ~13.000–16.000 izlenme saati getirir. 50 A video için video başına ortalama ~270 izlenme yeter; asıl engel **1.000 abone**. %1–1,5 dönüşümle 1.000 abone için 70.000–100.000 toplam izlenme gerekir (aboneye dönüşüm tarih kanallarında çoğunlukla kısa videolar ve seriden gelen izleyiciyle artar). **Yani A videolarının saati getirmesi yetmez; seri yapısı ve B/Shorts ile abone kazanmayı ayrıca planla.**
 
 ---
 
@@ -313,71 +319,79 @@ Bunlar hedef değil, **sağlık işaretleri**. Eşikler niş seçilmeden önce g
 
 | Gün | Süre | Görev |
 |---|---|---|
-| 1 | 7 sa | • YouTube API anahtarını al; niş analizini çalıştır (`nis-analizi/README.md`) — 1 sa <br>• Raporu oku, nişi seç — 2 sa <br>• Seçilen nişte rakip denetimi (Bölüm 5) — 4 sa |
-| 2 | 7 sa | • 150 satırlık konu ve anahtar kelime bankası (otomatik tamamlama, rakiplerin öne çıkan videoları, yorumlardaki sorular) — 4 sa <br>• Kanal adı, logo, banner, kanal açıklaması — 3 sa |
-| 3 | 7 sa | • Slayt şablonu, DaVinci Resolve/CapCut, Canva kurulumu; ses testi — 2 sa <br>• **Yayınlanmayacak bir deneme videosu** üret, baştan sona. Darboğazları gör — 5 sa |
-| 4 | 7 sa | • Video 1 ve 2: senaryo + kayıt |
-| 5 | 7 sa | • Video 1 ve 2: kurgu, küçük resim, başlık, açıklama <br>• Video 3: senaryo |
-| 6 | 5 sa | • Video 3: kayıt + kurgu (tampon) <br>• Kanal ayarları, 2 adımlı doğrulama, varsayılan açıklama şablonu, oynatma listeleri <br>• 5 Shorts hazırla |
+| 1 | 7 sa | • Analizi ve bu planı oku, alt konuyu ve seriyi seç — 2 sa <br>• Rakip denetimi (Bölüm 5) — 5 sa |
+| 2 | 7 sa | • Seçilen dönemde 100 satırlık konu bankası, kaynak listesi (kitap/makale; kütüphane veya açık erişim) — 4 sa <br>• Kanal adı, logo, banner, açıklama — 3 sa |
+| 3 | 7 sa | • Mikrofon ve ses testi, DaVinci Resolve/CapCut, Canva, görsel arşiv (Wikimedia) kurulumu — 3 sa <br>• **Yayınlanmayacak 10 dakikalık deneme anlatı:** baştan sona. Ses, görsel ve kurgu darboğazlarını gör — 4 sa |
+| 4 | 7 sa | • Video A1: araştırma ve kaynak doğrulama |
+| 5 | 7 sa | • Video A1: senaryo (yaklaşık 6.000–7.500 kelime) |
+| 6 | 5 sa | • Video A1: kayıt <br>• Kanal ayarları, 2 adımlı doğrulama, açıklama şablonu, oynatma listeleri |
 | 7 | 0 | Dinlenme |
 
-**Ön koşul:** Bilgisayar. Haftada 3 uzun videonun kurgusunu telefonda yapmak gerçekçi değil. Bilgisayar yoksa bu plan uygulanamaz; ya bilgisayar edin ya da tempoyu haftada 1–2 videoya düşür.
+**Ön koşul:** Bilgisayar. Haftalık 45–60 dakikalık videonun kurgusunu telefonda yapmak gerçekçi değil. Bilgisayar yoksa bu plan uygulanamaz; tempoyu 2 haftada 1 uzun videoya düşür.
 
 ---
 
 ## 14. Haftalık çalışma takvimi (~37 saat)
 
-### Üretim mantığı: toplu üretim, bir hafta önden
-Bu hafta yayınlanan 3 video, geçen hafta üretildi. Bu hafta üretilen 3 video, gelecek hafta yayınlanır. Her işi 3 video için toplu yapmak (önce 3 senaryo, sonra 3 kayıt, sonra 3 kurgu), işler arasında geçiş kaybını azaltır.
+### Üretim mantığı: tek ana video, bir hafta önden
+Bu hafta yayınlanan A videosu geçen hafta bitti. Bu hafta üretilen A, gelecek hafta yayınlanır. B (kısa) video A'nın araştırmasından çıkar: aynı kaynak, farklı kesit. Bu, araştırma saatini iki videoya böler.
 
-**Uzun video başına süre bütçesi (~10 saat):** araştırma + kaynak/çıkmış soru doğrulama 2,5 · senaryo (slayt metni) 1,5 · kayıt 1,5 · kurgu 3,5 · küçük resim + başlık + açıklama + yükleme 1,5.
+**Video süre bütçesi:**
+| Video | Araştırma + doğrulama | Senaryo | Kayıt | Görsel + kurgu | Başlık/küçük resim/açıklama/kaynaklar | Toplam |
+|---|---|---|---|---|---|---|
+| A (45–60 dk) | 8 | 5 | 2 | 8 | 1,5 | **~24,5 sa** |
+| B (12–18 dk) | 1 (A'dan) | 1,5 | 0,75 | 3 | 1 | **~7,25 sa** |
+| 3 Shorts | | | | | | 1,5 sa |
+| Analiz, planlama, yorum, dağıtım | | | | | | 3,5 sa |
+| **Toplam** | | | | | | **~37 sa** |
 
-### Hafta 5 ve sonrası (tam tempo: 3 uzun video + 7 Shorts)
+### Hafta 5 ve sonrası (tam tempo: 1 A + 1 B + 3 Shorts)
 
 | Gün | Süre | Görev | Çıktı |
 |---|---|---|---|
-| **Pazartesi** | 7 sa | • 1 sa: Analiz (son 7 ve 28 gün; geçen haftanın 3 videosunun tutma grafiği; en büyük düşüş noktaları) <br>• 1,5 sa: Bu haftanın 3 videosu için konu, anahtar kelime, başlık ve küçük resim konsepti <br>• 4,5 sa: Senaryo A ve B (+ örnek dosyalar) | Analiz notu, 3 brif, 2 senaryo |
-| **Salı** | 7 sa | • 2 sa: Senaryo C <br>• 4,5 sa: Kayıt A, B, C <br>• 0,5 sa: Yorumlar <br>• **19:00 Uzun video yayında** | 3 ham kayıt |
-| **Çarşamba** | 7 sa | • Kurgu A (3,5 sa) <br>• Kurgu B (3,5 sa) | 2 kurgulanmış video |
-| **Perşembe** | 7 sa | • Kurgu C (3,5 sa) <br>• 3 küçük resim (+ her biri için 1 alternatif), başlık, açıklama, bölümler, altyazı düzeltme, dosya linkleri (3,5 sa) <br>• **19:00 Uzun video yayında** | 3 yayına hazır video |
-| **Cuma** | 6 sa | • 3,5 sa: Bu haftanın videolarından 7 Shorts <br>• 0,5 sa: Gelecek haftanın 3 videosunu ve 7 Shorts'u planla <br>• 1 sa: Dağıtım (Telegram/forumlarda gerçek sorulara cevap) <br>• 1 sa: Yorumlar, topluluk gönderisi | 7 Shorts, planlanmış takvim |
-| **Cumartesi** | 3 sa | • 1,5 sa: Haftalık değerlendirme. En iyi ve en kötü video, ve **neden**. Bir sonraki hafta için tek bir değişiklik kararı. <br>• 1 sa: Performansı en düşük eski videonun başlığını/küçük resmini değiştir <br>• 0,5 sa: Konu bankasını güncelle <br>• **19:00 Uzun video yayında** | Haftalık rapor, 1 karar |
+| **Pazartesi** | 7 sa | • 1 sa: Analiz (son 7/28 gün, geçen A'nın tutma grafiği, düşüş noktaları) <br>• 6 sa: Gelecek haftanın A videosu için araştırma ve kaynak doğrulama | Analiz notu, kaynak dosyası |
+| **Salı** | 7 sa | • 2 sa: Araştırma devam <br>• 4,5 sa: A senaryosu <br>• 0,5 sa: Yorumlar <br>• **19:00 B video yayında** | A senaryosunun %75'i |
+| **Çarşamba** | 7 sa | • 1 sa: A senaryosu tamamla <br>• 2 sa: A kayıt <br>• 4 sa: A görsel toplama ve ilk kurgu | A kayıt, kurgu başladı |
+| **Perşembe** | 7 sa | • 4 sa: A kurgu tamamla (harita, zaman çizelgesi, ses düzenleme) <br>• 1,5 sa: Küçük resim, başlık, açıklama, kaynak listesi, bölümler, altyazı düzeltme <br>• 1,5 sa: B senaryo <br>• **19:00 A video yayında (geçen hafta üretilen)** | Bu haftanın A'sı hazır, B senaryosu |
+| **Cuma** | 6 sa | • 0,75 sa: B kayıt <br>• 3 sa: B kurgu <br>• 1 sa: B küçük resim/başlık/açıklama <br>• 1,25 sa: 3 Shorts | B hazır, 3 Shorts |
+| **Cumartesi** | 3 sa | • 1,5 sa: Haftalık değerlendirme (en iyi/en kötü ve **neden**; bir değişiklik kararı) <br>• 1 sa: Dağıtım (forum/gruplarda gerçek sorulara cevap) <br>• 0,5 sa: Konu bankası | Haftalık rapor, 1 karar |
 | **Pazar** | 0 | **Dinlenme. Pazarlık konusu değil.** | — |
-| **Toplam** | **37 sa** | | 3 uzun video + 7 Shorts |
+| **Toplam** | **37 sa** | | 1 A + 1 B + 3 Shorts |
 
-### Hafta 1–4 (öğrenme temposu: 2 uzun video + 5 Shorts)
-Aynı takvim, ama üçüncü video yerine:
-- Her videoyu yayından 48 saat sonra incele: tutma grafiği, gösterim tıklama oranı, trafik kaynakları.
-- Kurgu hızını ölç. Bir uzun video 10 saatin altına inmeden haftada 3'e geçme.
-- Artan ~8 saatin 4'ünü konu bankasına ve paketleme denemelerine, 4'ünü kurgu becerisine (slayt şablonları, kısayollar, hazır geçişler) ver.
+> Not: A videosu yayınlanması için "geçen hafta üretilen" hazır olmalı. Hafta 5'e kadar tampon (2 A + 2 B) bu yüzden zorunlu. Bu takvim ilk A'yı ortalama 24,5 saat varsayıyor; ilk videolarda bu 35–40 saati bulabilir, bu yüzden Hafta 1–4 ritmi yavaş.
 
-**Hafta 5'te 3 videoya geçme şartı:** Son 2 haftada her iki video da zamanında çıktı **ve** ortalama izlenme yüzdesi düşmedi. Şart sağlanmazsa 2 videoda kal. Tempo kaliteyi düşürüyorsa hız değil kayıptır.
+### Hafta 1–4 (öğrenme temposu: 1 A + yarım B)
+- A videosunu rahat bitir (araştırma ve kurgu hızı öğrenmeye gider). B'yi her hafta değil, gücün yettiğinde çıkar.
+- Her A videosunu yayından 48 saat sonra incele: tutma grafiği, CTR, trafik kaynakları.
+- **Hafta 5'te tam tempoya geçme şartı:** Son 2 A videosu zamanında çıktı **ve** ortalama süre sürdürülebilir (A başına 28 saatin altı). Şart sağlanmazsa B'yi azalt, tam tempoya geçme.
 
 ### Her 6. hafta: bakım haftası
-Sadece 2 uzun video üret. Artan zamanla tamponu yeniden 3 videoya çıkar, en çok izlenen 5 videonun devam videolarını planla ve 30 günlük bir değerlendirme yap. Bu hafta tükenmişliği önlemek için var; atlama.
+Sadece 1 A üret (B ve Shorts yok). Artan zamanla tamponu yeniden 2 A'ya çıkar, en çok izlenen 3 A'nın devam konularını planla, 30 günlük değerlendirme yap. Tükenmişliği önlemek için var; atlama.
 
-### Ayda bir (bakım haftası veya ayın son Cumartesisi, +2 saat)
-- Bölüm 12'deki kontrol noktalarıyla karşılaştır.
-- Sütun dağılımı kararı: Hangi sütun izlenme saati getiriyor?
-- En iyi videonun 2 devam videosunu konu bankasının en üstüne koy.
+### Ayda bir (+2 saat)
+- Bölüm 12 kontrol noktalarıyla karşılaştır.
+- Hangi A konusu ve hangi süre (35/50/70 dk) işe yarıyor? Karar ver.
+- En iyi A'nın 2 devam konusunu konu bankasının üstüne koy.
 - Gün 90'da: niş değiştirme kararını Bölüm 12'deki kurala göre ver. Duyguyla değil.
 
 ### Tükenmişlik kuralları
 - Haftada 40 saati geçme. Fazla saat 6–8 hafta sonra kaliteyi düşürür.
-- 2 hafta üst üste takvim kaçarsa tempoyu 2 videoya düşür. Bırakma.
-- Sonuçlara günde bir kereden fazla bakma. Haftalık analiz yeterli; saatlik bakmak karar kalitesini düşürür.
+- 2 hafta üst üste takvim kaçarsa B'yi bırak, A'ya odaklan. Bırakma.
+- Sonuçlara günde bir kereden fazla bakma. Haftalık analiz yeterli.
 
 ---
 
 ## 15. Bu planın başarısız olmasının en olası sebepleri
 
-1. 8–12. haftada sonuç görmeyip bırakmak; ya da tersine, Gün 90'daki niş değiştirme kuralına uymayıp çalışmayan nişte inat etmek.
-2. Hızlı tempoda tükenip tamamen bırakmak (Bölüm 14'teki tükenmişlik kuralları).
-3. Uzmanlık ve kaynak doğrulaması olmadan KPSS videosu çekmek: tek yanlış bilgi güveni bitirir.
-4. Zaman kazanmak için yapay zekâ seslendirmesine veya şablon üretime geçmek.
-5. Analitiği okumadan aynı hataları tekrarlamak.
-6. Geniş, rekabetçi aramaları hedeflemek (uzun kuyruk yerine).
-7. Gelir beklentisini AdSense'e bağlamak.
+1. 8–12. haftada sonuç görmeyip bırakmak; ya da Gün 90'daki niş değiştirme kuralına uymayıp inat etmek. **Tarihte her video tek atış; tek videoya bakıp karar verme, ama 13 videoya baktıktan sonra karar ver.**
+2. Hızlı tempoda tükenmek: 45–60 dakikalık videoyu haftada 1 çıkarmak bile ağır. İlk videolar 35–40 saat sürebilir.
+3. Kaynak doğrulaması yapmadan yayınlamak. Yapay zekâya tarih/isim doğrulatmak: güvenle yanlış söyler.
+4. Yabancı belgesel çevirisi, şablon veya yapay ses ile "hız" kazanmaya çalışmak: YPP incelemesi riski ve aynılaşma.
+5. Geniş aramayı ("osmanlı tarihi") hedeflemek; büyük kanallarda kilitli.
+6. Seri kurmadan tekil videolar çekmek (abone ve oturum süresi gelmez).
+7. Telifli görsel kullanmak (kanal strike riski).
+8. Gelir beklentisini AdSense'e bağlamak: tarihin RPM'i düşük, reklam dışı gelir yolu zayıf (Bölüm 11).
+9. Siyasi/ideolojik yorum tartışmalarına girip moderasyona boğulmak.
 
 ---
 
@@ -388,5 +402,5 @@ Sadece 2 uzun video üret. Artan zamanla tamponu yeniden 3 videoya çıkar, en �
 - [AlternativeTo — Seri üretilmiş yapay zekâ içeriğine para kazanma kısıtı](https://alternativeto.net/news/2025/7/youtube-updates-its-policy-to-demonetize-inauthentic-mass-produced-ai-generated-content)
 - [Dijital Ajanslar — Türkiye YouTube izlenme ücretleri (doğrulanmamış tahmin)](https://www.dijitalajanslar.com/youtube-izlenme-ucretleri/)
 - [Dijipedya — 1000 izlenme kaç TL (doğrulanmamış tahmin)](https://dijipedya.com/youtube-1000-izlenme-kac-tl-veriyor/)
-- [ÖSYM](https://www.osym.gov.tr/) — KPSS oturum tarihlerini buradan doğrula
+- [Wikimedia Commons](https://commons.wikimedia.org/) — görsel lisanslarını her dosyada kontrol et
 - Niş verisi: `nis-analizi/sonuclar/` (YouTube Data API v3, 12 Ekim 2026)
