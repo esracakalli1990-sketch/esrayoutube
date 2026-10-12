@@ -43,6 +43,8 @@ Kota biterse araç o ana kadar biten nişlerle rapor yazar. Ertesi gün aynı ko
 - `nis_puanlari.csv` — niş başına tüm metrikler (Excel'de açılır)
 - `videolar.csv` — ham veri: incelenen tüm videolar
 
+Rapordaki "küçük kanal medyan izlenme" Shorts'u da içerir; Shorts izlenmesi para kazanma saatine sayılmaz. Asıl karar için ayrıca `python3 uzun_video_analizi.py` çalıştır: yalnızca küçük kanalların son 2 yıldaki 3 dakikadan uzun videolarına bakar.
+
 ## Puanlama
 
 - **Veri puanı (%60):** Nişler birbirine göre sıralanır. Bu yüzden puan mutlak bir değer değil, "bu listedeki diğer nişlere göre" anlamına gelir. Ağırlıklar: talep %20, hız %20, küçük kanal payı %15, küçük kanal izlenmesi %15, kırılma oranı %15, tazelik %10, dağılım %5.
