@@ -143,15 +143,23 @@ Senin hedefin 4.000 saat uzun video izlenmesi. Buna göre tek önemli soru: **So
 
 Genel ders anlatımında ilk sonuçları 1–2,6 milyon aboneli kanallar (Rehber Matematik, Mert Hoca, Şenol Hoca, Tonguç, Partikül) tutuyor; yeni küçük kanalın yeri yok ve 17 sonucun 8'i 2 yıldan eski, yani sıralama kilitli. Sınav hazırlığında yeni kanala yer, **mevsimsel ve güncel formatlarda** (güncel bilgiler, "2026 son tekrar", ALES) açılıyor. İlk 6 niş aramasında bunun tersini gösteren bir veri yok. Ayrıca okul dersi anlatımı öğretmenlik düzeyinde uzmanlık ister (uzmanlık puanı sınav hazırlıkta 1/5 idi); KPSS Genel Kültür tarih, coğrafya ve vatandaşlıkla sınırlı olduğu için hata riski en yönetilebilir alt alan.
 
-**Sonuç:** Sezon dışında evergreen içerik **istiyorsun ve bu mantıklı**, ama bunu "genel okul dersi" olarak değil, **KPSS Genel Kültür konu anlatımı serisi** olarak kuruyoruz (Bölüm 7, Sütun E). Okul dersleri için ayrı test hazır: `nis-analizi/nisler_ders.json` (aşağıya bak). Test sonucu olumluysa genişletiriz; olumsuzsa genişlemeyiz.
+**Sonuç:** Sezon dışında evergreen içerik **istiyorsun ve bu mantıklı**, ama bunu "genel okul dersi" olarak değil, **KPSS Genel Kültür konu anlatımı serisi** olarak kuruyoruz (Bölüm 7, Sütun E). Okul dersleri için ayrı test yapıldı (`nis-analizi/nisler_ders.json`, aşağıdaki sonuç): olumsuz çıktı, genişlemiyoruz.
 
-**Yarın çalıştırılacak testler (API kotası sıfırlanınca):**
-```bash
-cd nis-analizi
-python3 analiz.py --tanim nisler_ders.json --cikti sonuclar_ders   # okul/lise/üniversite dersleri + KPSS konu anlatımı
-python3 uzun_video_analizi.py sonuclar_ders/videolar.csv
-```
-Okul dersi niş verisi, KPSS konu anlatımı serisinin **küçük kanal için çalışıp çalışmadığını** da gösterir (dönem dışı evergreen testi).
+**Test sonucu (17 Ekim 2026, `nis-analizi/sonuclar_ders/`, 4 niş × 8 kelime × 50 sonuç):**
+
+| Niş | Küçük kanal uzun video (son 2 yıl) | Medyan izlenme | Uzun sonuçların 100k+ aboneli kanaldan payı | 2 yıldan eski sonuç payı |
+|---|---|---|---|---|
+| KPSS konu anlatımı | **7** | 37.247 | %82 | %19 |
+| Ortaokul dersleri | 9 | 11.564 | %85 | %14 |
+| Üniversite dersleri | **38** | 2.333 | %51 | %55 |
+| Lise / TYT-AYT sosyal | 13 | **684** | %82 | %18 |
+
+- **Lise TYT-AYT: elendi.** Medyan 684 ve %82'si büyük kanallarda. Yeni kanala yer yok.
+- **Ortaokul: elendi.** Küçük kanal örneği (9) var ve izleniyor, ama sonuçların %85'i büyük kanallarda ve öğretmenlik düzeyinde uzmanlık ister (sosyal bilgiler, fen). Senin için en pahalı hata.
+- **Üniversite dersleri: dikkat çekici ama şimdi değil.** En fazla küçük kanal örneği (38) ve eski videolar sıralamayı kilitlememiş değil, ama kilitlemiş de değil: sonuçların %55'i 2 yıldan eski, %51'i büyük kanallarda. Video başı izlenme düşük (medyan 2.333) ve hukuk, iktisat, muhasebe gerçek uzmanlık ister. Kanal oturduktan sonra genişleme adayı olarak not edildi.
+- **KPSS konu anlatımı: sezon dışı fikrini destekleyen tek sonuç, ama ince.** Gördüğümüz 7 küçük kanal videosunun hepsi 1.000+ izlenme almış (medyan 37.247, en zayıf kelimede bile 13.032). Ama sonuçların %82'si 100k+ aboneli kanallarda ve örnek yalnızca 7 video. Yani yer var, dar ve kanıtı zayıf.
+
+**Sonuç:** Sezon dışı evergreen içerik KPSS konu anlatımı olarak (Sütun E) kalıyor; okul dersleri ve lise eleniyor. E'ye güvenme: "çalışıyor" değil "kanıt var ama 7 videoluk" olarak oku.
 
 ### İkinci sıra (Gün 90 niş değiştirme kuralı için): Tarih anlatımı
 Veride en yüksek izlenme saati potansiyeli tarihte (40 küçük kanal videosu, 44 dakikalık medyan süre). İkinci sıraya koymamın sebepleri: (1) sonuçlar uç değerli, bazı kelimelerde medyan 450; (2) 40–80 dakikalık belgesel temel kurgu ve haftada 35–40 saatle haftada 1'den fazla çıkmaz; (3) başarılı küçük kanalların bir kısmı (ör. "Der Kommandant Türkçe", "Frontline War Memoirs") yabancı içeriğin çevirisi veya seri üretim izlenimi veriyor: hem "özgün olmayan içerik" riski taşıyor hem de rekabet ettiğin şey bu. **Avantaj:** KPSS Tarih için yaptığın araştırma tarih anlatımına doğrudan aktarılır. Geçiş maliyeti düşük.
@@ -222,7 +230,7 @@ Bu hipotezler doğrulanmazsa konumlandırmayı değiştir. Varsayımla değil ve
 | **E. Sezon dışı konu anlatımı serisi (evergreen)** | %15 | Sınav takviminden bağımsız arama trafiği; lise/üniversite öğrencisine de açık | 20–35 dk | "Anayasa Hukukuna Giriş: Devletin Temel Organları", "Osmanlı Kuruluş Dönemi: Konu Anlatımı" |
 | **Shorts** | Haftada 5–7 | Abone ve keşif. Para değil. | 20–45 sn | "Bu bilgi her yıl soruluyor: ..." |
 
-**Sütun E hakkında dürüst not:** Sezon dışı konu anlatımının çalışıp çalışmadığını veri henüz göstermiyor. Genel ders anlatımı aramalarında ilk sonuçlar milyonluk kanallarda ve küçük kanal yok (Bölüm 3, karar günlüğü). E'yi bu yüzden **genel okul dersi değil, KPSS Genel Kültür alt konuları** üzerinden ve dar başlıklarla (tek konu, tek ünite) kur. İlk 6 E videosundan sonra küçük kanalın aldığı izlenmeyi A ile karşılaştır; E, A'nın yarısından az alıyorsa E'yi %5'e indir.
+**Sütun E hakkında dürüst not:** Sezon dışı konu anlatımının çalışıp çalışmadığını veri henüz göstermiyor. Genel ders anlatımı aramalarında ilk sonuçlar milyonluk kanallarda; KPSS konu anlatımında küçük kanal örneği var ama yalnızca 7 video (Bölüm 3, karar günlüğü). E'yi bu yüzden **genel okul dersi değil, KPSS Genel Kültür alt konuları** üzerinden ve dar başlıklarla (tek konu, tek ünite) kur. İlk 6 E videosundan sonra küçük kanalın aldığı izlenmeyi A ile karşılaştır; E, A'nın yarısından az alıyorsa E'yi %5'e indir.
 
 **Kural:** İlk 12 videonun en az 8'i A sütunundan, müfredat sırasına göre ve **oynatma listesi** halinde olacak. Seri izlenen içerik, izlenme saatini ve aboneyi en hızlı büyüten yapıdır.
 
