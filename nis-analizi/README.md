@@ -33,6 +33,8 @@ $env:YOUTUBE_API_KEY="anahtarın"
 python analiz.py
 ```
 
+Başka bir niş listesi ve ayrı çıktı klasörü: `python3 analiz.py --tanim nisler_ders.json --cikti sonuclar_ders` (okul/lise/üniversite dersleri ve KPSS konu anlatımı testi).
+
 Sadece bazı nişleri çalıştırmak için: `python3 analiz.py --nis devlet_haklar --nis yapay_zeka_araclari`
 
 Kota biterse araç o ana kadar biten nişlerle rapor yazar. Ertesi gün aynı komutu çalıştırınca kaldığı yerden devam eder; önbellekteki aramalar tekrar kota harcamaz.
@@ -42,6 +44,8 @@ Kota biterse araç o ana kadar biten nişlerle rapor yazar. Ertesi gün aynı ko
 - `rapor.md` — sıralama tablosu ve her nişte en çok izlenen küçük kanal videoları
 - `nis_puanlari.csv` — niş başına tüm metrikler (Excel'de açılır)
 - `videolar.csv` — ham veri: incelenen tüm videolar
+
+Rapordaki "küçük kanal medyan izlenme" Shorts'u da içerir; Shorts izlenmesi para kazanma saatine sayılmaz. Asıl karar için ayrıca `python3 uzun_video_analizi.py` çalıştır: yalnızca küçük kanalların son 2 yıldaki 3 dakikadan uzun videolarına bakar.
 
 ## Puanlama
 
