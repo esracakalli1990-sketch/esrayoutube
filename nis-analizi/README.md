@@ -35,6 +35,8 @@ python analiz.py
 
 Başka bir niş listesi ve ayrı çıktı klasörü: `python3 analiz.py --tanim nisler_ders.json --cikti sonuclar_ders` (okul/lise/üniversite dersleri ve KPSS konu anlatımı testi).
 
+Başka bir pazar için: `--bolge US --dil en` (ör. `python3 analiz.py --tanim nisler_en.json --bolge US --dil en --cikti sonuclar_en`).
+
 Sadece bazı nişleri çalıştırmak için: `python3 analiz.py --nis devlet_haklar --nis yapay_zeka_araclari`
 
 Kota biterse araç o ana kadar biten nişlerle rapor yazar. Ertesi gün aynı komutu çalıştırınca kaldığı yerden devam eder; önbellekteki aramalar tekrar kota harcamaz.

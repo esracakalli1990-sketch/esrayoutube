@@ -129,7 +129,16 @@ Senin hedefin 4.000 saat uzun video izlenmesi. Buna göre tek önemli soru: **So
 
 **1. Tarih anlatımı (Türkçe).** Veriyle savunulabilir (video başı izlenme saati en yüksek: 40–70 dk küçük kanal videolarının medyanı 14.391, 70+ dk 27.066), ama: yüksek varyans (30 küçük kanalın 11'inin medyanı 1.000'in altında), video başı ~25 saat üretim (haftada 1 uzun video), düşük RPM ve ürün satışı zayıf, özgün olmayan içerik riski. Yedek niş olarak duruyor (aşağıda).
 
-**2. İngilizce kanal (daha yüksek RPM için).** RPM farkı gerçek ama bunu veriyle test **edemedim**: bugünkü API kotası doldu. İzlenme × RPM çarpımında rekabet, anlatıcı sesi/aksanı ve İngilizce senaryo kalitesi belirleyici; yapay ses YPP'de risk. Yarın aynı araç İngilizce için çalıştırılabilir; karar o zamana kadar bekliyor. **Bu plan Türkçe kalıyor.**
+**2. İngilizce / global kanal (daha yüksek RPM için).** 19 Ekim 2026'da ABD bölgesi, İngilizce, aynı yöntemle test edildi (`nis-analizi/sonuclar_en/`, 4 niş × 8 kelime). Son 2 yılda 10.000 aboneden küçük kanalların 3 dakikadan uzun videoları:
+
+| Niş (EN) | Örnek video | Medyan izlenme | 1.000+ payı | 100k+ kanallardan sonuç payı |
+|---|---|---|---|---|
+| Personal finance | 8 | 112.916 | %88 | %74 |
+| **History documentary** | **17** | **40.062** | %82 | %78 |
+| Excel / spreadsheets | 11 | 29.746 | %100 | %76 |
+| AI tools | 10 | 6.714 | %80 | %79 |
+
+İngilizce tarihte 17 küçük kanal örneğinin kanal medyanlarının ortancası ~40.000 ve yalnızca 3'ünün medyanı 1.000'in altında. Türkçe tarihte bu değerler ~7.000 ve 30 kanaldan 11'i. **İzlenme/video olarak İngilizce belirgin biçimde daha yüksek.** RPM'i API vermiyor, bu yüzden "para" tarafı ölçülmedi. Dikkat: (1) örneklerin çoğu 7–50 videoluk, "The ENTIRE History of..." kalıbında kanallar; yapay ses ve seri üretim şüphesi (doğrulanamadı) ve YPP "özgün olmayan içerik" riski yüksek; (2) finans en yüksek izlenmeyi veriyor ama n=8, uzmanlık ve yatırım tavsiyesi hukuki riski var; (3) senin İngilizce anlatım kapasiten ölçülmedi, bu tek başına kararı belirler.
 
 **3. "Sezon dışı normal öğrenci ders formatı" (LGS/YKS/okul dersi): veri bu fikri desteklemiyor.**
 
