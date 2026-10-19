@@ -31,6 +31,7 @@ API = "https://www.googleapis.com/youtube/v3/"
 KLASOR = Path(__file__).resolve().parent
 ONBELLEK = KLASOR / ".onbellek"
 SONUC = KLASOR / "sonuclar"
+BOLGE, DIL = "TR", "tr"    # arama bölgesi ve dili; --bolge / --dil ile değişir
 
 KUCUK_KANAL = 10_000        # bu aboneden az = küçük kanal
 KIRILMA_ABONE = 50_000      # "kırılma" sayılan videolarda kanal üst sınırı
@@ -117,7 +118,7 @@ def kelime_topla(kelime, anahtar, cevrimdisi=False):
     """Bir anahtar kelime için ilk 50 Türkiye arama sonucunu, video ve kanal istatistikleriyle döndürür."""
     arama = api_cagir("search", {
         "part": "snippet", "q": kelime, "type": "video", "maxResults": 50,
-        "regionCode": "TR", "relevanceLanguage": "tr", "order": "relevance",
+        "regionCode": BOLGE, "relevanceLanguage": DIL, "order": "relevance",
     }, anahtar, cevrimdisi)
     video_idler = [o["id"]["videoId"] for o in arama.get("items", []) if o.get("id", {}).get("videoId")]
     if not video_idler:
@@ -332,7 +333,13 @@ def main():
     ap.add_argument("--nis", action="append", help="Sadece bu nişleri analiz et (tekrarlanabilir)")
     ap.add_argument("--cevrimdisi", action="store_true", help="Yalnızca önbellekteki veriyi kullan")
     ap.add_argument("--tanim", default=str(KLASOR / "nisler.json"))
+    ap.add_argument("--cikti", default="sonuclar", help="Sonuçların yazılacağı klasör (varsayılan: sonuclar)")
+    ap.add_argument("--bolge", default="TR", help="regionCode (TR, US, GB ...)")
+    ap.add_argument("--dil", default="tr", help="relevanceLanguage (tr, en ...)")
     a = ap.parse_args()
+    global SONUC, BOLGE, DIL
+    SONUC = KLASOR / a.cikti
+    BOLGE, DIL = a.bolge.upper(), a.dil.lower()
 
     anahtar = os.environ.get("YOUTUBE_API_KEY", "")
     if not anahtar and not a.cevrimdisi:
