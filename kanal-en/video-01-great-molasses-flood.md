@@ -1,15 +1,15 @@
 # Video 1 (eğitim amaçlı): The Great Molasses Flood of 1919
 
-Durum: **taslak, kayıttan önce Bölüm "Doğrula" tamamlanmalı.** Bu script `/yt-script` ile yazıldı; dünyada doğrulanmamış hiçbir rakam kesin sayılmamalı.
+Durum: **taslak, kayıttan önce Bölüm "Doğrula" tamamlanmalı.** Hiçbir rakam kaynakla teyit edilmedi.
 
-## Hook paneli (hookscore.py, 5 kanca arasından en iyi 2)
+## Kancalar (iki seçenek, editoryal değerlendirme)
 
-| | Kanca | Puan | Formül | En zayıf özellik |
-|---|---|---|---|---|
-| **A (kazanan)** | "You have never heard how a Boston street drowned in molasses in 1919, and why the company still tried to blame anarchists for it." | **66 WORKABLE** | The Impossible Claim | Somutluk 62, Stakes 62, Merak 58 |
-| B | "You think molasses is slow? You have never seen what it did to a Boston street on January 15, 1919." | 64 WORKABLE | The Impossible Claim | Merak 41 |
+| | Kanca | Değerlendirme |
+|---|---|---|
+| **A (seçildi)** | "Most people know the joke about the Boston molasses flood. Almost nobody asks what the company did when it saw the tank leaking: it painted it brown instead of fixing it." | Somut (Boston, tank, boya), tek fikir (şirketin ihmali), abartı yok. "Painted it brown" iddiası Beat 3'te "anlatımlara göre" diye verildi; kaynakla netleşmezse kancayı da yumuşat. |
+| B | "You think molasses is slow? You have never seen what it did to a Boston street on January 15, 1919." | Dikkat çekici ve somut tarih var, ama merak sorusu zayıf ve vaadi (ne gösterilecek) belirsiz. |
 
-Uyarı: Skor bir buluşsal kuraldır. Ve "you have never heard" ile açan kanca tehlikeli: bu hikâye **çok bilinen** (aşağıdaki not). Kayıttan önce "never heard" yerine "you probably know the joke" gibi daha dürüst bir giriş düşün.
+Eski kanca ("You have never heard how a Boston street drowned...") **elendi**: hikâye çok bilinen, "never heard" iddiası yanlış.
 
 **Önerilen başlık (arama için):** The Great Molasses Flood of 1919: What Really Happened
 **Süre (sayılmış):** ~560 konuşulan kelime ÷ 150 = **~3 dk 45 sn.** Beat'lerin başlığındaki zaman aralıkları (0:15–0:45 vb.) hedef yapıdır; metin bu hâliyle bunun ~%60'ı kadar. İlk eğitim videosu için yeterli. Gerçek bir kanal videosu için 8+ dk gerekir (veri: 2+ saatlik ve 25+ dk'lık anlatılar küçük kanallarda daha çok izleniyor), yani her beat ~2 kat derinleşmeli, bu da kaynak doğrulamasını da ~2 kat artırır.
@@ -21,7 +21,7 @@ Uyarı: Skor bir buluşsal kuraldır. Ve "you have never heard" ile açan kanca 
 ### Beat 0 — Hook (0:00–0:15)
 **[ON SCREEN: archival street photo of the flood aftermath, slow push-in. Title card: "Boston, January 15, 1919"]**
 
-"You have never heard how a Boston street drowned in molasses in 1919, and why the company still tried to blame anarchists for it."
+"Most people know the joke about the Boston molasses flood. Almost nobody asks what the company did when it saw the tank leaking: it painted it brown instead of fixing it."
 
 ### Beat 1 — The turn (0:15–0:45)
 **[ON SCREEN: map of Boston's North End, Commercial Street marked with a pin; harbor on the right]**
@@ -64,7 +64,7 @@ Here is the cruel part. Molasses is heavy, and in the cold air it thickened fast
 ### Beat 7 — The blame and the payoff (5:20–6:00)
 **[ON SCREEN: headline: "ANARCHISTS?"; then a court document close-up; text: "1925: the court disagrees"]**
 
-"Now to what I promised at the start: why the company blamed anarchists. This was 1919, a year of real fear about radicals and bombs. The company claimed someone had blown the tank up. It was convenient. A bomb meant it was not the company's fault.
+"Now, what I promised at the start: the company saw the leaks and painted over them. And when the tank burst, its first move was to blame anarchists. This was 1919, a year of real fear about radicals and bombs. The company claimed someone had blown the tank up. It was convenient. A bomb meant it was not the company's fault.
 
 The courts did not buy it. After years of testimony, a court-appointed auditor ruled in 1925 that the tank was not built strongly enough, and the company paid for it. This became one of the early large class-action cases in the country."
 
