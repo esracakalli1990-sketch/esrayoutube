@@ -1,0 +1,10 @@
+{
+  "_aciklama": "Amerika'nın bilinmeyen tarihi alt nişi testi. python3 analiz.py --tanim nisler_us_tarih.json --bolge US --dil en --cikti sonuclar_us_tarih",
+  "nisler": {
+    "en_untold_us_history": {
+      "ad": "EN · Untold / forgotten American history",
+      "uygunluk": {"rpm": 3, "yuzsuz": 5, "uretim": 2, "risk": 3, "uzmanlik": 3},
+      "kelimeler": ["untold american history", "hidden american history", "forgotten american history", "history they didn't teach you in school america", "dark side of american history", "forgotten events in us history", "american history documentary", "unknown american history facts"]
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_aciklama": "İngilizce/global niş testi. Çalıştır: python3 analiz.py --tanim nisler_en.json --bolge US --dil en --cikti sonuclar_en. rpm/risk/uzmanlik tahmindir.",
+  "nisler": {
+    "en_history": {
+      "ad": "EN · History documentary",
+      "uygunluk": {
+        "rpm": 2,
+        "yuzsuz": 5,
+        "uretim": 2,
+        "risk": 4,
+        "uzmanlik": 3
+      },
+      "kelimeler": [
+        "ancient civilizations documentary",
+        "roman empire history",
+        "ottoman empire history",
+        "hittite empire",
+        "ancient egypt full documentary",
+        "history of mesopotamia",
+        "fall of rome explained",
+        "medieval history documentary"
+      ]
+    },
+    "en_ai_tools": {
+      "ad": "EN · AI tools tutorials",
+      "uygunluk": {
+        "rpm": 4,
+        "yuzsuz": 5,
+        "uretim": 4,
+        "risk": 4,
+        "uzmanlik": 4
+      },
+      "kelimeler": [
+        "how to use chatgpt",
+        "ai tools for productivity",
+        "claude vs chatgpt",
+        "ai video generator tutorial",
+        "best ai tools 2026",
+        "how to use gemini",
+        "ai for students",
+        "ai automation for beginners"
+      ]
+    },
+    "en_personal_finance": {
+      "ad": "EN · Personal finance",
+      "uygunluk": {
+        "rpm": 5,
+        "yuzsuz": 3,
+        "uretim": 4,
+        "risk": 2,
+        "uzmanlik": 2
+      },
+      "kelimeler": [
+        "how to invest for beginners",
+        "index funds explained",
+        "how to budget",
+        "credit score explained",
+        "roth ira explained",
+        "how to save money",
+        "etf investing for beginners",
+        "retirement planning basics"
+      ]
+    },
+    "en_excel": {
+      "ad": "EN · Excel / spreadsheets",
+      "uygunluk": {
+        "rpm": 4,
+        "yuzsuz": 5,
+        "uretim": 4,
+        "risk": 5,
+        "uzmanlik": 2
+      },
+      "kelimeler": [
+        "excel tutorial for beginners",
+        "xlookup excel",
+        "excel pivot table tutorial",
+        "excel formulas",
+        "power query tutorial",
+        "excel dashboard tutorial",
+        "chatgpt excel",
+        "google sheets tutorial"
+      ]
+    }
+  }
+}

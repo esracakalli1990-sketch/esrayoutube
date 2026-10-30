@@ -1,0 +1,125 @@
+{
+  "_aciklama": "İngilizce geniş fırsat taraması, aşama 1 (yeni nişler). python3 analiz.py --tanim nisler_en2.json --bolge US --dil en --cikti sonuclar_en2",
+  "nisler": {
+    "en_business_stories": {
+      "ad": "EN · Business stories / company collapses",
+      "uygunluk": {
+        "rpm": 3,
+        "yuzsuz": 4,
+        "uretim": 3,
+        "risk": 4,
+        "uzmanlik": 3
+      },
+      "kelimeler": [
+        "company collapse documentary",
+        "how companies fail",
+        "rise and fall of a brand",
+        "business case study",
+        "why startups fail",
+        "biggest corporate scandals",
+        "history of a famous company",
+        "business documentary full"
+      ]
+    },
+    "en_geo_econ": {
+      "ad": "EN · Geopolitics & economics explained",
+      "uygunluk": {
+        "rpm": 3,
+        "yuzsuz": 4,
+        "uretim": 3,
+        "risk": 4,
+        "uzmanlik": 3
+      },
+      "kelimeler": [
+        "geopolitics explained",
+        "why countries are poor",
+        "how the economy works",
+        "economics explained simply",
+        "history of money",
+        "why is inflation happening",
+        "global supply chain explained",
+        "how countries get rich"
+      ]
+    },
+    "en_tech_engineering": {
+      "ad": "EN · Tech & engineering explained",
+      "uygunluk": {
+        "rpm": 3,
+        "yuzsuz": 4,
+        "uretim": 3,
+        "risk": 4,
+        "uzmanlik": 3
+      },
+      "kelimeler": [
+        "how do computers work",
+        "how the internet works",
+        "how microchips are made",
+        "history of computers",
+        "how nuclear power works",
+        "how electric cars work",
+        "engineering explained",
+        "how gps works"
+      ]
+    },
+    "en_military_history": {
+      "ad": "EN · Military history",
+      "uygunluk": {
+        "rpm": 3,
+        "yuzsuz": 4,
+        "uretim": 3,
+        "risk": 4,
+        "uzmanlik": 3
+      },
+      "kelimeler": [
+        "world war 2 documentary",
+        "battle of stalingrad",
+        "vietnam war explained",
+        "cold war history",
+        "naval battles history",
+        "military history documentary",
+        "d-day explained",
+        "korean war explained"
+      ]
+    },
+    "en_science": {
+      "ad": "EN · Science explainers",
+      "uygunluk": {
+        "rpm": 3,
+        "yuzsuz": 4,
+        "uretim": 3,
+        "risk": 4,
+        "uzmanlik": 3
+      },
+      "kelimeler": [
+        "how black holes work",
+        "how the brain works",
+        "quantum physics explained",
+        "evolution explained",
+        "how vaccines work",
+        "space documentary",
+        "how the immune system works",
+        "origin of life explained"
+      ]
+    },
+    "en_philosophy_psych": {
+      "ad": "EN · Philosophy & psychology",
+      "uygunluk": {
+        "rpm": 3,
+        "yuzsuz": 4,
+        "uretim": 3,
+        "risk": 4,
+        "uzmanlik": 3
+      },
+      "kelimeler": [
+        "stoicism explained",
+        "psychology facts",
+        "philosophy for beginners",
+        "how to focus",
+        "marcus aurelius",
+        "cognitive biases explained",
+        "why we procrastinate",
+        "history of philosophy"
+      ]
+    }
+  }
+}

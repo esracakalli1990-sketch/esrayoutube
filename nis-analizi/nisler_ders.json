@@ -1,0 +1,85 @@
+{
+  "_aciklama": "Okul/lise/üniversite ders formatı ve KPSS konu anlatımı testi. Çalıştır: python3 analiz.py --tanim nisler_ders.json --cikti sonuclar_ders. Uygunluk puanları tahmindir (nisler.json ile aynı ölçek).",
+  "nisler": {
+    "lise_tyt_ayt_sosyal": {
+      "ad": "Lise / TYT-AYT sosyal dersler (tarih, coğrafya, edebiyat)",
+      "uygunluk": {
+        "rpm": 3,
+        "yuzsuz": 5,
+        "uretim": 4,
+        "risk": 5,
+        "uzmanlik": 2
+      },
+      "kelimeler": [
+        "tyt tarih konu anlatımı",
+        "tyt coğrafya konu anlatımı",
+        "ayt edebiyat konu anlatımı",
+        "9. sınıf tarih",
+        "10. sınıf coğrafya",
+        "tyt felsefe",
+        "lise tarih dersi",
+        "tyt türkçe paragraf"
+      ]
+    },
+    "ortaokul_dersleri": {
+      "ad": "Ortaokul dersleri (sosyal bilgiler, fen, inkılap tarihi)",
+      "uygunluk": {
+        "rpm": 3,
+        "yuzsuz": 5,
+        "uretim": 4,
+        "risk": 5,
+        "uzmanlik": 2
+      },
+      "kelimeler": [
+        "7. sınıf sosyal bilgiler",
+        "8. sınıf inkılap tarihi",
+        "6. sınıf fen bilimleri",
+        "8. sınıf türkçe",
+        "5. sınıf sosyal bilgiler",
+        "7. sınıf fen bilimleri",
+        "lgs inkılap tarihi",
+        "lgs fen bilimleri"
+      ]
+    },
+    "universite_ortak_dersler": {
+      "ad": "Üniversite dersleri (hukuk, iktisat, muhasebe, AİİT)",
+      "uygunluk": {
+        "rpm": 3,
+        "yuzsuz": 5,
+        "uretim": 4,
+        "risk": 5,
+        "uzmanlik": 2
+      },
+      "kelimeler": [
+        "atatürk ilkeleri ve inkılap tarihi",
+        "anayasa hukuku ders anlatımı",
+        "mikro iktisat konu anlatımı",
+        "genel muhasebe ders anlatımı",
+        "hukuka giriş",
+        "iş hukuku",
+        "istatistik ders anlatımı",
+        "türk dili ders anlatımı"
+      ]
+    },
+    "kpss_konu_anlatimi": {
+      "ad": "KPSS konu anlatımı (sezon dışı evergreen testi)",
+      "uygunluk": {
+        "rpm": 3,
+        "yuzsuz": 5,
+        "uretim": 4,
+        "risk": 5,
+        "uzmanlik": 1
+      },
+      "kelimeler": [
+        "kpss tarih konu anlatımı",
+        "kpss coğrafya konu anlatımı",
+        "kpss vatandaşlık konu anlatımı",
+        "kpss osmanlı tarihi",
+        "kpss anayasa hukuku",
+        "kpss islamiyet öncesi türk tarihi",
+        "kpss türkiye coğrafyası",
+        "kpss ders anlatımı"
+      ]
+    }
+  }
+}

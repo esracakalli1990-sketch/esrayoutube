@@ -1,0 +1,5 @@
+﻿sira,nis,toplam,veri_puani,uygunluk_puani,talep,hiz,kucuk_pay,kucuk_izlenme,kirilma,tazelik,dagilim,shorts_pay,uzun_medyan_dk,video_basi_saat,4000_saat_icin_video
+1,KPSS konu anlatımı (sezon dışı evergreen testi),79.8,85.0,72.0,479186.0,2081.96,0.05,54315.75,0.09,0.65,0.38,0.03,56.538,20472.511,0.195
+2,"Ortaokul dersleri (sosyal bilgiler, fen, inkılap tarihi)",54.9,40.8,76.0,73198.5,515.29,0.03,13185.5,0.07,0.53,0.29,0.04,25.242,2218.827,1.803
+3,"Üniversite dersleri (hukuk, iktisat, muhasebe, AİİT)",53.4,38.3,76.0,62050.25,49.285,0.192,4909.5,0.21,0.253,0.36,0.07,31.725,1038.359,3.852
+4,"Lise / TYT-AYT sosyal dersler (tarih, coğrafya, edebiyat)",51.9,35.8,76.0,84025.5,322.245,0.054,345.75,0.07,0.442,0.26,0.02,31.825,73.357,54.528
