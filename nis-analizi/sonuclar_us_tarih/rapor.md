@@ -1,6 +1,6 @@
 # Niş Analizi Raporu
 
-Oluşturma: 2026-10-30 14:45 · Kaynak: YouTube Data API v3, Türkiye bölgesi, Türkçe, her anahtar kelime için ilk 50 arama sonucu.
+Oluşturma: 2026-10-30 15:00 · Kaynak: YouTube Data API v3, Türkiye bölgesi, Türkçe, her anahtar kelime için ilk 50 arama sonucu.
 
 Toplam puan = %60 veri puanı (nişler arası göreli) + %40 uygunluk puanı (elle verilen tahmin).
 

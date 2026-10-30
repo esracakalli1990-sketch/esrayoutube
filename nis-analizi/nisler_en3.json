@@ -1,0 +1,85 @@
+{
+  "_aciklama": "İngilizce tarih alt alanları, aşama 2. python3 analiz.py --tanim nisler_en3.json --bolge US --dil en --cikti sonuclar_en3",
+  "nisler": {
+    "en_h_greece_rome": {
+      "ad": "EN tarih · Roma / Yunan / Bizans",
+      "uygunluk": {
+        "rpm": 2,
+        "yuzsuz": 5,
+        "uretim": 2,
+        "risk": 4,
+        "uzmanlik": 3
+      },
+      "kelimeler": [
+        "history of ancient rome",
+        "ancient greece documentary",
+        "byzantine empire history",
+        "roman republic explained",
+        "fall of the roman empire",
+        "sparta history",
+        "alexander the great documentary",
+        "carthage history"
+      ]
+    },
+    "en_h_near_east": {
+      "ad": "EN tarih · Antik Yakın Doğu / Bronz Çağı",
+      "uygunluk": {
+        "rpm": 2,
+        "yuzsuz": 5,
+        "uretim": 2,
+        "risk": 4,
+        "uzmanlik": 3
+      },
+      "kelimeler": [
+        "bronze age collapse",
+        "sumerian civilization",
+        "persian empire history",
+        "babylon history",
+        "assyrian empire",
+        "ancient egypt pharaohs",
+        "indus valley civilization",
+        "phoenicians history"
+      ]
+    },
+    "en_h_medieval": {
+      "ad": "EN tarih · Ortaçağ / İmparatorluklar",
+      "uygunluk": {
+        "rpm": 2,
+        "yuzsuz": 5,
+        "uretim": 2,
+        "risk": 4,
+        "uzmanlik": 3
+      },
+      "kelimeler": [
+        "vikings history documentary",
+        "mongol empire history",
+        "medieval europe explained",
+        "crusades explained",
+        "silk road history",
+        "ottoman empire rise",
+        "history of china dynasties",
+        "samurai japan history"
+      ]
+    },
+    "en_h_american": {
+      "ad": "EN tarih · Amerikan tarihi (belirli konu)",
+      "uygunluk": {
+        "rpm": 2,
+        "yuzsuz": 5,
+        "uretim": 2,
+        "risk": 4,
+        "uzmanlik": 3
+      },
+      "kelimeler": [
+        "american civil war explained",
+        "american revolution documentary",
+        "gilded age america",
+        "native american history",
+        "history of the american west",
+        "great depression history",
+        "american industrial disasters",
+        "us labor history"
+      ]
+    }
+  }
+}

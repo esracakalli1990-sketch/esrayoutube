@@ -105,6 +105,8 @@ Senin hedefin 4.000 saat uzun video izlenmesi. Buna göre tek önemli soru: **So
 
 ### Seçilen niş: İngilizce, yüzsüz, kaynaklı Amerikan tarihi (belirli hikâyelerle)
 
+> **GÜNCELLEME (30 Ekim 2026, geniş tarama): Bu bloktaki "Amerikan tarihi" vurgusu veriyle desteklenmiyor.** 11 İngilizce niş ve 4 tarih alt alanı tarandı (`nis-analizi/sonuclar_firsat/SONUC.md`). Amerikan tarihi (konuya özel) küçük kanallarda medyan 134 izlenme ile en zayıf alan; uzun biçimli **uygarlık/imparatorluk tarihi** ("The Entire History of X", 20–45 dk veya uzun derleme) en iyi destekleniyor (85 küçük kanal videosu, düşük tempolu kanallarda medyan 30.414, yeni kanallar da kırılıyor). Finans ve Excel parasal olarak cazip olabilir ama örnek çok az ve uzmanlık/risk gerektiriyor. **Alt niş kararı senin onayına bağlı;** onaylanana kadar plan metni aşağıdaki Amerikan tarihi çerçevesinde duruyor. Hikâye seçimi ve haftalık plan (Bölüm 4–14) alt niş değişirse buna göre güncellenir.
+
 Karar (Ekim 2026): kanal **İngilizce** olacak ve KPSS üzerinden düşünülmeyecek; amaç para kazanmak. Aşağıdaki veri bu yönü destekliyor, ama bir kapı var: **senin İngilizce anlatım kapasiten ölçülmedi** (Hafta 0, Gün 1'deki test).
 
 **Veri (hepsi ABD bölgesi, İngilizce arama; küçük kanal = 10.000 aboneden az; son 2 yılın 3 dakikadan uzun videoları):**

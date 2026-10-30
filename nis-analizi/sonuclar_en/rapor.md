@@ -1,15 +1,15 @@
 # Niş Analizi Raporu
 
-Oluşturma: 2026-10-19 07:16 · Kaynak: YouTube Data API v3, Türkiye bölgesi, Türkçe, her anahtar kelime için ilk 50 arama sonucu.
+Oluşturma: 2026-10-30 15:00 · Kaynak: YouTube Data API v3, Türkiye bölgesi, Türkçe, her anahtar kelime için ilk 50 arama sonucu.
 
 Toplam puan = %60 veri puanı (nişler arası göreli) + %40 uygunluk puanı (elle verilen tahmin).
 
 | Sıra | Niş | Toplam | Veri | Uygunluk | Medyan izlenme (uzun) | Günlük izlenme (son 12 ay) | Küçük kanal payı | Küçük kanal medyan izlenme | Kırılma oranı | Tazelik | Shorts payı | 4.000 saat için gereken video* |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | EN · History documentary | **71.6** | 76.7 | 64.0 | 747.748 | 2.882 | %8 | 151.418 | %14 | %32 | %15 | 0.1 |
-| 2 | EN · Excel / spreadsheets | **61.0** | 48.3 | 80.0 | 302.502 | 227 | %14 | 44.467 | %21 | %16 | %21 | 0.8 |
-| 3 | EN · Personal finance | **53.6** | 46.7 | 64.0 | 237.908 | 1.445 | %7 | 127.549 | %15 | %22 | %37 | 0.3 |
-| 4 | EN · AI tools tutorials | **50.6** | 28.3 | 84.0 | 108.124 | 781 | %9 | 27.270 | %13 | %70 | %26 | 1.6 |
+| 1 | EN · History documentary | **71.6** | 76.7 | 64.0 | 747.748 | 2.617 | %8 | 151.418 | %14 | %31 | %15 | 0.1 |
+| 2 | EN · Excel / spreadsheets | **61.0** | 48.3 | 80.0 | 302.502 | 264 | %14 | 44.467 | %21 | %15 | %21 | 0.8 |
+| 3 | EN · Personal finance | **53.6** | 46.7 | 64.0 | 237.908 | 1.240 | %7 | 127.549 | %15 | %21 | %37 | 0.3 |
+| 4 | EN · AI tools tutorials | **50.6** | 28.3 | 84.0 | 108.124 | 843 | %9 | 27.270 | %13 | %69 | %26 | 1.6 |
 
 \* Küçük kanal (<10.000 abone) videolarının medyan izlenmesi × medyan süre × %40 izlenme oranı varsayımıyla. Bu bir tahmindir. Arama sonuçlarında görünen küçük kanallar zaten başarılı olanlardır (hayatta kalan yanlılığı); senin videoların ortalamada bundan **daha az** izlenecektir. Rakamı alt sınır değil, iyimser bir üst sınır olarak oku.
 
